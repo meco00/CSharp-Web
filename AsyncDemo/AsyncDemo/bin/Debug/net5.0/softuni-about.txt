@@ -1,0 +1,2184 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0">
+
+        <title>За нас - Софтуерен университет</title>
+
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+
+    <link href="/content/bootstrap/styles?v=4jFDhL8tnPLVZ2-NA0JyLpbIBjoBrHraCB3JHUxz1DM1" rel="stylesheet"/>
+
+
+    
+
+<link href="/content/kendo/css?v=hz54jZh5scitRBKPYf3s1aSUyQFaaELpC8SNjhIUtIQ1" rel="stylesheet"/>
+<link href="/content/styles?v=mebUrjOzGWuUib1UjkCNuU1i3e24kJCWJBQM8yW-_6M1" rel="stylesheet"/>
+<link href="/content/override?v=CV8pRfSIxscWBkNWFOWr2Qrd6GNh7Qo2R_ZG8dpBEQ01" rel="stylesheet"/>
+<link href="/content/user-styles?v=9C_NqskmR9L8AvFcHbYdl2o3uJTYXfPGgq9HUqzCUf01" rel="stylesheet"/>
+<link href="/content/navbar?v=PRcF72X-6-ShNCazvy2wU3uQ4Qx84tQBOzhvLa2X45M1" rel="stylesheet"/>
+
+    
+    <link href="/content/about-page?v=2d5V4C-iFSJIPzpsD6NfKhV9WK-qmDooCOR8yIWZY-Y1" rel="stylesheet"/>
+
+
+
+    <script src="/bundles/jquery?v=lX15pWtjC6GXtlKo4e2grjdbasON0ea4DsyauXX6fyQ1"></script>
+<script src="/bundles/seo-hide?v=ZrWzt7auEoAH9QyJdHmvAdAZliVacywAY92JoLXOH2w1"></script>
+<script src="/bundles/seo-hide-dynamic?v=sNrEBp9APgAg6enbjSi8_Mo8ICMFtnHsbTnlYrG2ViY1"></script>
+
+
+
+    <link rel="canonical"
+          href="https://softuni.bg/about" />
+
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="SoftUni" />
+    
+
+    <meta name="title" content="За нас - Софтуерен университет" />
+    <meta name="description" content="Научете повече за нас и нашия обновен учебен план. Запознайте се с предимствата на нашата програма и начините, по които тя може да ви помогне за кариерен старт." />
+    <meta name="keywords" content="софтуерен университет, курсове, програмиране, обучение, софтуерно инженерство, кариера, професия" />
+
+    <meta property="fb:app_id" content="1442925725936458">
+    <meta property="og:url" content="https://softuni.bg/about" />
+    <meta property="og:site_name" content="SoftUni">
+    <meta property="og:locale" content="bg_BG" />
+    <meta property="og:locale:alternate" content="en_US" />
+
+
+    <meta property="og:title" content="За нас - Софтуерен университет" />
+    <meta property="og:description" content="Научете повече за нас и нашия обновен учебен план. Запознайте се с предимствата на нашата програма и начините, по които тя може да ви помогне за кариерен старт." />
+    <meta property="og:image" content="https://softuni.bg/Content/images/open-graph/university-default-og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="600" />
+
+    
+    
+    
+    
+
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-K2LDNFK');
+        </script>
+        <script>
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+                n = f.fbq = function () {
+                    n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+                };
+                if (!f._fbq) f._fbq = n;
+                n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+                t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s);
+            }(window, document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+            fbq('init', '911920462219791');
+            fbq('track', 'PageView');
+        </script>
+        <noscript>
+            <img title="Най-задълбочената програма по софтуерно инженерство в България" alt="Най-задълбочената програма по софтуерно инженерство в България" height="1" width="1" style="display: none"
+                 src="https://www.facebook.com/tr?id=911920462219791&ev=PageView&noscript=1" />
+        </noscript>
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-11309924-7', 'softuni.bg');
+            ga('send', 'pageview');
+        </script>
+</head>
+
+<body>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K2LDNFK"
+                height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    
+
+    
+
+        <div class="lead-wrapper">
+            
+
+
+
+
+<div class="header-wrapper">
+    <header id="page-header" class="container container-holder">
+        <div class="brand-holder pull-left">
+            <div class="cell">
+                <div class="hover-dropdown">
+                    <div class="logo hover-dropdown-btn">
+                        <i class="fa fa-fw fa-2x fa-caret-right"></i>
+                        <a href="/" title="Software University">
+                            <img class="desktop-logo hidden-xs" src="/content/images/svg-logos/software-university-logo.svg" alt="Logo" title="Software University" />
+                            <img title="Най-задълбочената програма по софтуерно инженерство в България" class="mobile-logo visible-xs" src="/content/images/svg-logos/software-university-mobile-logo.svg" alt="Logo" id="mobile-logo">
+                        </a>
+                    </div>
+                    <div class="hover-dropdown-content">
+                        <a href="https://about.softuni.bg" title="SoftUni">
+                            <img src="/Content/images/svg-logos/softuni-logo-white.svg" alt="SoftUni logo" title="SoftUni" id="softuni-logo" />
+                        </a>
+                        <a href="https://digital.softuni.bg" title="SoftUni Digital">
+                            <img src="/Content/images/svg-logos/digital-logo-white.svg" alt="SoftUni Digital logo" title="SoftUni Digital" id="digital-logo" />
+                        </a>
+                        <a href="https://creative.softuni.bg" title="SoftUni Creative">
+                            <img src="/Content/images/svg-logos/creative-logo-white.svg" alt="SoftUni Creative logo" title="SoftUni Creative" />
+                        </a>
+                        <a href="https://kids.softuni.bg" title="SoftUni Kids">
+                            <img src="/Content/images/svg-logos/kids-logo-white.svg" alt="SoftUni Kids logo" title="SoftUni Kids" />
+                        </a>
+                        <a href="https://svetlina.softuni.bg" title="SoftUni Svetlina">
+                            <img src="/Content/images/svg-logos/light-logo-white.svg" alt="SoftUni Svetlina logo" title="SoftUni Svetlina" id="light-logo" />
+                        </a>
+                        <a href="http://softuni.foundation/" title="SoftUni Foundation">
+                            <img src="/Content/images/svg-logos/foundation-logo-white.svg" alt="SoftUni Foundation logo" title="SoftUni Foundation" id="foundation-logo" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav id="header-nav">
+            <div class="toggle-nav toggle-holder">
+                
+<section class="nav-item-search-bar-wrapper">
+    <form method="get" action="/search/results">
+        <article class="search-wrap">
+            <button type="submit" class="search-bar-icon">
+                <i class="fa fa-search header-search-form-icon"></i>
+            </button>
+            <input type="text"
+                    id="search-input"
+                    class="search-field"
+                    placeholder="Търси"
+                    name="SearchTerm" />
+
+            <input type="hidden"
+                    value="true"
+                    checked
+                    name="CourseInstances" />
+            <input type="hidden"
+                    value="true"
+                    checked
+                    name="FastTrackInstances" />
+            <input type="hidden"
+                    value="true"
+                    checked
+                    name="Seminars" />
+            <input type="hidden"
+                    value="true"
+                    checked
+                    name="Questions" />
+            <input type="hidden"
+                    value="true"
+                    checked
+                    name="Users" />
+            <input type="hidden"
+                    value="true"
+                    checked
+                    name="LectureResources" />
+        </article>
+    </form>
+</section>
+
+                <ul class="nav-list horizontal-list ">
+                    <li class="nav-item">
+                        <a href="/about" class="nav-link">
+                            <span class="cell">За нас</span>
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown-item">
+                        <a href="javascript:;" class="nav-link header-dropdown-link" data-toggle="dropdown">
+                            <span class="cell">Обучения</span>
+                        </a>
+                        
+
+
+
+<div class="custom-dropdown container training-dropdown">
+    <div class="container container-holder">
+        <div class="row titles-row no-margin-offset visible-lg visible-md">
+            <div class="col-md-4">
+                <h2 class="category-title main">
+                    <i class="fa fa-desktop" aria-hidden="true"></i>
+                    <a href="/trainings/courses">Професионална програма</a>
+                </h2>
+            </div>
+            <div class="col-md-8 open-courses-background">
+                <h2 class="category-title main text-center">
+                    <i class="fa fa-cube" aria-hidden="true"></i>
+                    <a href="/trainings/opencourses">Отворени курсове</a>
+                </h2>
+            </div>
+        </div>
+        <div class="row no-margin-offset courses-and-modules-wrapper">
+            <div class="col-md-4 courses-wrapper">
+                <h2 class="category-title main visible-sm visible-xs">
+                    <i class="fa fa-desktop" aria-hidden="true"></i>
+                    <a href="/trainings/courses">Професионална програма</a>
+                </h2>
+                <div class="category-nav panel-group">
+
+                        <div class="my-collapsible expanded">
+                            <div class="category-title sub uppercase my-collapsible-header">
+                                Активни модули
+                                <i class="my-collapsible-indicator fa fa-minus-circle pull-right"></i>
+                            </div>
+                            <div class="my-collapsible-body">
+                                <ul class="category-list sub-menu">
+                                    <li>
+    <a href="/modules/2/Entry-Module/1289" class="nav-link">Entry Module</a>
+</li>
+
+<li>
+    <a href="/modules/76/JS-Advanced/1282" class="nav-link">JS Advanced</a>
+</li>
+
+<li>
+    <a href="/modules/106/Fundamentals-Module/1279" class="nav-link">Fundamentals Module</a>
+</li>
+
+<li>
+    <a href="/modules/95/Front-End/1288" class="nav-link">Front-End</a>
+</li>
+
+<li>
+    <a href="/modules/96/JS-Web/1287" class="nav-link">JS Web</a>
+</li>
+
+<li>
+    <a href="/modules/58/CSharp-Advanced/1280" class="nav-link">C# Advanced</a>
+</li>
+
+<li>
+    <a href="/modules/59/Java-Advanced/1281" class="nav-link">Java Advanced</a>
+</li>
+
+<li>
+    <a href="/modules/74/Python-Advanced/1283" class="nav-link">Python Advanced</a>
+</li>
+
+<li>
+    <a href="/modules/75/Python-Web/1286" class="nav-link">Python Web</a>
+</li>
+
+<li>
+    <a href="/modules/24/Java-DB/1284" class="nav-link">Java DB</a>
+</li>
+
+<li>
+    <a href="/modules/108/CSharp-Web/1285" class="nav-link">C# Web</a>
+</li>
+
+
+                                </ul>
+                            </div>
+                        </div>
+
+                    <a class="primary-btn base-btn" href="/trainings/courses">Виж всички</a>
+                </div>
+            </div>
+
+            <div class="col-md-8 open-courses-wrapper open-courses-background">
+                <div class="category-nav">
+                    <h2 class="category-title main text-center visible-sm visible-xs">
+                        <i class="fa fa-cube" aria-hidden="true"></i>
+                        <a href="/trainings/opencourses">Отворени курсове</a>
+                    </h2>
+                    <div class="col-md-6 no-padding">
+                            <div class="category-title sub uppercase">
+                                Предстоящи модули
+                            </div>
+                            <div class="category-list small-padding">
+                                <ul class="category-list sub-menu">
+                                    <li>
+    <a href="/modules/119/System-Administration-Advanced-June-2021/1295" class="nav-link">System Administration Advanced - юни 2021</a>
+</li>
+
+
+                                </ul>
+                            </div>
+
+                            <div class="my-collapsible ">
+                                <div class="category-title sub uppercase my-collapsible-header">
+                                    Активни модули
+                                    <i class="my-collapsible-indicator fa fa-plus-circle pull-right"></i>
+                                </div>
+                                <div class="my-collapsible-body category-list">
+                                    <ul class="category-list sub-menu">
+                                        <li>
+    <a href="/modules/105/Information-and-Cyber-Security-September-2020/1258" class="nav-link">Information and Cyber Security - септември 2020</a>
+</li>
+
+<li>
+    <a href="/modules/110/CPlusPlus-Development-January-2021/1275" class="nav-link">C++ Development - януари 2021</a>
+</li>
+
+<li>
+    <a href="/modules/111/Artificial-Intelligence-February-2021/1276" class="nav-link">Artificial Intelligence - февруари 2021</a>
+</li>
+
+<li>
+    <a href="/modules/112/System-Administration-February-2021/1277" class="nav-link">System Administration - февруари 2021</a>
+</li>
+
+<li>
+    <a href="/modules/113/IT-Project-Management-February-2021/1278" class="nav-link">IT Project Management - февруари 2021</a>
+</li>
+
+<li>
+    <a href="/modules/114/Computer-Networking-April-2021/1290" class="nav-link">Computer Networking - април 2021</a>
+</li>
+
+<li>
+    <a href="/modules/115/DevOps-April-2021/1291" class="nav-link">DevOps - април 2021</a>
+</li>
+
+<li>
+    <a href="/modules/116/Microsoft-Excel-May-2021/1292" class="nav-link">Microsoft Excel - май 2021</a>
+</li>
+
+<li>
+    <a href="/modules/117/Data-Structures-with-Java-May-2021/1293" class="nav-link">Data Structures with Java - май 2021</a>
+</li>
+
+<li>
+    <a href="/modules/118/Data-Structures-with-CSharp-May-2021/1294" class="nav-link">Data Structures with C# - май 2021</a>
+</li>
+
+
+                                    </ul>
+                                </div>
+                            </div>
+
+                        <a href="/trainings/opencourses" class="primary-btn base-btn">Виж всички</a>
+                    </div>
+
+                    <div class="col-md-6 no-padding">
+                            <div class="category-title sub uppercase">
+                                Предстоящи курсове
+                            </div>
+                            <ul class="category-list sub-menu">
+                                
+
+
+<li>
+    <a href="/trainings/3258/cpp-advanced-may-2021" 
+        class="nav-link">C++ Advanced - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3433/qa-fundamentals-may-2021" 
+        class="nav-link">QA Fundamentals - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3438/programming-basics-with-csharp-june-2021" 
+        class="nav-link">Programming Basics with C# - юни 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3439/programming-basics-with-java-june-2021" 
+        class="nav-link">Programming Basics with Java - юни 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3440/programming-basics-with-javascript-june-2021" 
+        class="nav-link">Programming Basics with JavaScript - юни 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3441/programming-basics-with-python-june-2021" 
+        class="nav-link">Programming Basics with Python - юни 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3283/data-science-june-2021" 
+        class="nav-link">Data Science - юни 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3383/computer-networking-advanced-june-2021" 
+        class="nav-link">Computer Networking Advanced - юни 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3417/data-structures-fundamentals-with-java-june-2021" 
+        class="nav-link">Data Structures Fundamentals (with Java) - юни 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3419/data-structures-fundamentals-with csharp-june-2021" 
+        class="nav-link">Data Structures Fundamentals (with C#) - юни 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3444/windows-system-administration-advanced-june-2021" 
+        class="nav-link">Windows System Administration Advanced - юни 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3414/microsoft-excel-advanced-july-2021" 
+        class="nav-link">Microsoft Excel Advanced - юли 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3395/devops-fundamentals-july-2021" 
+        class="nav-link">DevOps Fundamentals - юли 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3259/cpp-oop-july-2021" 
+        class="nav-link">C++ OOP - юли 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3418/data-structures-advanced-with-java-august-2021" 
+        class="nav-link">Data Structures Advanced (with Java) - август 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3420/data-structures-advanced-with-csharp-august-2021" 
+        class="nav-link">Data Structures Advanced (with C#) - август 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3445/linux-system-administration-advanced-september-2021" 
+        class="nav-link">Linux System Administration Advanced - септември 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3284/machine-learning-september-2021" 
+        class="nav-link">Machine Learning - септември 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3285/deep-learning-december-2021" 
+        class="nav-link">Deep Learning - декември 2021</a>
+</li>
+
+                            </ul>
+
+                            <div class="my-collapsible ">
+                                <div class="category-title sub uppercase my-collapsible-header">
+                                    Активни курсове
+                                    <i class="my-collapsible-indicator fa fa-plus-circle pull-right"></i>
+                                </div>
+                                <div class="my-collapsible-body">
+                                    <ul class="category-list sub-menu">
+                                        
+
+
+<li>
+    <a href="/trainings/3282/math-concepts-for-developers-february-2021" 
+        class="nav-link">Math Concepts for Developers - февруари 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3341/csharp-masterclass-march-2021" 
+        class="nav-link">C# Masterclass - март 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3360/programming-basics-with-csharp-april-2021" 
+        class="nav-link">Programming Basics with C# - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3361/programming-basics-with-java-april-2021" 
+        class="nav-link">Programming Basics with Java - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3362/programming-basics-with-javascript-april-2021" 
+        class="nav-link">Programming Basics with JavaScript - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3363/programming-basics-with-python-april-2021" 
+        class="nav-link">Programming Basics with Python - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3373/cybersecurity-and-ethical-hacking-april-2021" 
+        class="nav-link">Киберсигурност и етично хакерство - април 2021 - курс за ученици</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3382/computer-networking-fundamentals-april-2021" 
+        class="nav-link">Computer Networking Fundamentals - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3394/devops-basics-april-2021" 
+        class="nav-link">DevOps Basics - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3288/linux-system-administration-april-2021" 
+        class="nav-link">Linux System Administration - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3129/compromising-platforms-april-2021" 
+        class="nav-link">Compromising Platforms - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3397/unity-3d-basics-april-2021" 
+        class="nav-link">Unity 3D Basics - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3304/scrum-framework-april-2021" 
+        class="nav-link">Agile Fundamentals with Scrum - април 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3398/programming-basics-with-csharp-may-2021" 
+        class="nav-link">Programming Basics with C# - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3399/programming-basics-with-java-may-2021" 
+        class="nav-link">Programming Basics with Java - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3400/programming-basics-with-javascript-may-2021" 
+        class="nav-link">Programming Basics with JavaScript - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3401/programming-basics-with-python-may-2021" 
+        class="nav-link">Programming Basics with Python - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3413/microsoft-excel-fundamentals-may-2021" 
+        class="nav-link">Microsoft Excel Fundamentals - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3416/fundamentals-in-mathematics-may-2021" 
+        class="nav-link">Fundamentals in Mathematics - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3435/robotic-process-automation-rpa-essentials-may-2021" 
+        class="nav-link">Robotic Process Automation (RPA) Essentials - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3421/html-and-css-may-2021" 
+        class="nav-link">HTML &amp; CSS - май 2021</a>
+</li>
+
+
+
+<li>
+    <a href="/trainings/3422/mysql-may-2021" 
+        class="nav-link">MySQL - май 2021</a>
+</li>
+
+                                    </ul>
+                                </div>
+                            </div>
+
+                        <a href="/trainings/opencourses" class="primary-btn base-btn">Виж всички</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/curriculum" class="nav-link">
+                            <span class="cell">
+                                Учебен план
+                            </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/trainers" class="nav-link">
+                            <span class="cell">
+                                Преподаватели
+                            </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/diplomas-and-certificates" class="nav-link">
+                            <span class="cell">
+                                Сертификати
+                            </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/plans" class="nav-link">
+                            <span class="cell">
+                                Такси
+                            </span>
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown-item">
+                        <a href="javascript:;" class="nav-link header-dropdown-link" data-toggle="dropdown"><span class="cell">Кариера</span></a>
+                        <div class="custom-dropdown">
+                            <div class="container container-holder">
+                                <ul class="dropdown-list row">
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/careers/candidates" class="nav-link">
+                                            Кариерен център
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/all" class="nav-link">
+                                            Професия програмист
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/java" class="nav-link">
+                                            Професия Java Developer
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/python" class="nav-link">
+                                            Професия Python Developer
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/university/developersguide" class="nav-link">
+                                            Наръчник за програмисти
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/csharp" class="nav-link">
+                                            Професия C# Developer
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/javascript" class="nav-link">
+                                            Професия JS Developer
+                                        </a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/professions/qa" class="nav-link">
+                                            Професия QA Engineer
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown-item">
+                        <a href="javascript:;" class="nav-link header-dropdown-link" data-toggle="dropdown">
+                            <span class="cell">Партньори</span>
+                        </a>
+                        <div class="custom-dropdown">
+                            <div class="container container-holder">
+                                <ul class="dropdown-list row">
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/partners" class="nav-link">Компании партньори</a>
+                                    </li>
+                                    <li class="col-md-3 col-sm-4">
+                                        <a href="/become-a-partner" class="nav-link">
+                                            Стани партньор
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/forum" class="nav-link"><span class="cell">Форум</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/blog" class="nav-link">
+                            <span class="cell">Блог</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/contacts" class="nav-link"><span class="cell">Контакти</span></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="nav-buttons buttons-wrapper">
+                <ul class="nav-list">
+                    <li class="nav-item dropdown-item nav-toggle-item btn-item hamburger-menu">
+                        <a href="javascript:;" class="icon-btn nav-toggle-btn hidden-lg hidden-md" data-toggle="dropdown">
+                            <div class="cell" id="nav-icon">
+                                <span class="nav-icon-line first-line"></span>
+                                <span class="nav-icon-line second-line"></span>
+                                <span class="nav-icon-line third-line"></span>
+                            </div>
+                        </a>
+                    </li>
+                        <li class="nav-item btn-item login-btn">
+                            <span class="cell login-btn-wrap">
+                                
+                                <a href="/login" class="softuni-btn softuni-btn-primary softuni-btn-small">Вход</a>
+                            </span>
+                        </li>
+
+                    <li class="nav-item" id="search-icon-container">
+                        
+<a href="javascript:;" class="icon-btn header-search-dropdown-link">
+    <span class="cell">
+        <i class="fa fa-search"></i>
+    </span>
+</a>
+
+<div id="search-dropdown" class="custom-dropdown toggle-holder">
+    <div class="container container-holder">
+        <form method="get" action="/search/results">
+            <div class="search-wrap">
+                <button type="submit">
+                    <i class="fa fa-search header-search-form-icon"></i>
+                </button>
+                <input type="text"
+                    id="search-input"
+                    class="search-field"
+                    placeholder="Търси в сайта"
+                    name="SearchTerm" />
+            </div>
+            <div class="filters-holder">
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="CourseInstances"
+                        value="true"
+                        checked
+                        name="CourseInstances" />
+                    <label class="checkbox-label" for="CourseInstances">Курсове</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="FastTrackInstances"
+                        value="true"
+                        checked
+                        name="FastTrackInstances" />
+                    <label class="checkbox-label" for="FastTrackInstances">Отворени Курсове</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Seminars"
+                        value="true"
+                        checked
+                        name="Seminars" />
+                    <label class="checkbox-label" for="Seminars">Семинари</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Questions"
+                        value="true"
+                        checked
+                        name="Questions" />
+                    <label class="checkbox-label" for="Questions">Форум</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Users"
+                        value="true"
+                        checked
+                        name="Users" />
+                    <label class="checkbox-label" for="Users">Потребители</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Resources"
+                        value="true"
+                        checked
+                        name="LectureResources" />
+                    <label class="checkbox-label" for="Resources">Ресурси</label>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    $('#search-dropdown form input:checkbox').click(function (ev) {
+        var checkbox = $(ev.currentTarget);
+        var checkboxValueAsBool = JSON.parse(checkbox.val())
+        checkbox.val(!checkboxValueAsBool);
+    });
+</script>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+</div>
+            
+
+
+
+
+
+<style>
+    .loading-mask-container {
+        position: relative;
+    }
+
+    .loading-mask {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        color: #234465;
+        display: none;
+        background-color: rgba(35, 68, 101, 0.05);
+    }
+
+    .loading-spinner-container {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+</style>
+
+<div id="system-messages-loading-mask" class="loading-mask" title="Loading...">
+    <span class="loading-spinner-container">
+        <i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i>
+        <span class="sr-only">Loading...</span>
+    </span>
+</div>
+
+        </div>
+
+    <div class="content">
+        
+
+
+
+
+
+
+
+<div class="container-holder about-page-wrapper">
+    <div class="about-page-header page-wrapper">
+        <div class="container content-heading">
+            <h2 class="about-page-header-title text-left">Ние правим хората, които обучаваме, истински професионалисти в софтуерната индустрия и им съдействаме за техния кариерен старт!
+            </h2><div class="row"><div class="university-txt html-raw-wrapper col-md-6 col-sm-12 col-xs-12"><p>Проектът "Софтуерен университет" на СофтУни е основан с идеята за иновативен и модерен образователен център,
+                        който създава истински професионалисти в света на програмирането. За нас, както и за цялата софтуерна индустрия,
+                        най-важни са реалните практически умения.
+                    </p><p>Ето защо ние използваме модела &bdquo;учене чрез правене&ldquo;, предоставяйки на нашите студенти обучение по
+                        програмиране съчетано с реален практически опит и познания в най-търсените и модерни технологии, готови да
+                        стартират
+                        своята кариера като успешни софтуерни инженери.
+                    </p><div class="apply-btn-wrap"><a class="softuni-btn softuni-btn-primary softuni-btn-large" href="/apply" title="Кандидатствай">Кандидатствай</a>
+ </div></div><div class="university-bg col-md-5 col-sm-12 col-xs-12"><iframe allowfullscreen="" class="youtube-video youtube-about-softuni-4-0-video dp-1" enablejsapi="1" src="https://www.youtube.com/embed/BOcMQS1hoEQ?rel=0"></iframe></div></div>
+        </div>
+    </div>
+
+    <div class="benefits-wrapper">
+        <div class="benefit"><div class="benefit-description practical-edu-description"><h2>Съвременно практическо обучение</h2><p>СофтУни предлага цялостна програма по софтуерно инженерство с най-търсените софтуерни технологии, както и най-модерните учебни практики. <a href="https://softuni.bg/curriculum">Учебният план</a> по софтуерно инженерство на СофтУни е внимателно разработен с прякото участие на компаниите от IT сектора. Той представлява прецизна селекция от курсове по програмиране, отговарящи на най-актуалните тенденции в света на информационните технологии и софтуерното инженерство.
+                </p><p>Освен учебния план по софтуерно инженерство, СофтУни организира редица курсове на разнообразни теми от IT и дигиталната сфера като системна администрация, изкуствен интелект, киберсигурност, роботика и много други.
+                </p></div></div>
+
+        <div class="professional-modules-info-images">
+            <div class="professional-modules-info-images">
+                        <a href="/professions/csharp" target="_blank">
+                            <div class="professional-modules-info-image">
+                                <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/Courses/C%2Bsharp.svg" alt="C# Web Developer" />
+                            </div>
+                        </a>
+                        <a href="/professions/java" target="_blank">
+                            <div class="professional-modules-info-image">
+                                <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/Courses/Java.svg" alt="Java Web Developer" />
+                            </div>
+                        </a>
+                        <a href="/professions/javascript" target="_blank">
+                            <div class="professional-modules-info-image">
+                                <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/Courses/JS.svg" alt="JS Web Developer" />
+                            </div>
+                        </a>
+                        <a href="/professions/python" target="_blank">
+                            <div class="professional-modules-info-image">
+                                <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/Courses/Python.svg" alt="Python Web Developer" />
+                            </div>
+                        </a>
+                        <a href="/professions/qa" target="_blank">
+                            <div class="professional-modules-info-image">
+                                <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/Courses/QA.svg" alt="QA Engineer" />
+                            </div>
+                        </a>
+            </div>
+        </div>
+
+        <div class="benefit practice-and-internship-article">
+            <section class="practice-and-internship-articles container">
+                <div class="benefit-description"><h2>Гъвкав обучителен модел</h2><p>За да гарантираме, че курсистите ни усвояват най-актуалните практики на пазара, всяко едно обучение се провежда в реално време. Предоставяйки максимална гъвкавост на курсистите, те могат да се обучават на място в учебните ни зали, както и онлайн, чрез своя компютър, а след всяко занятие, получават достъп до неговия запис, както и всички учебни материали.
+                </p></div><div class="benefit-description scholarships-description"><h2>Упражнения и практически проекти</h2><p>Основен фокус на обучителния ни модел е превръщането на придобитите познания в реални практически умения и именно затова обучението e съчетано с разнообразни лабораторни упражнения, както и индивидуални
+                    и екипни практически проекти, чрез които студентите придобиват както технически така и личностни
+                    умения, които ще прилагат в своята бъдеща работа като специалисти.
+                </p></div>
+            </section>
+        </div>
+    </div>
+
+    <div class="career-center-section">
+        <div class="container">
+            <div class="benefit-picture">
+                <img src="/Content/images/about-page/pic-career-center.svg"
+                     title="Кариерно съдействие"
+                     alt="Кариерно съдействие предоставено от СофтУни"
+                     class="img-responsive" />
+            </div>
+            <div class="benefit-description"><h2>Кариерно съдействие</h2><p>СофтУни си партнира пряко с <a href="https://softuni.bg/partners">компаниите</a> от софтуерната индустрия, съдействайки на своите студентите за реализацията им като успешни софтуерни инженери. Успешно представилите се студенти, показали отлични резултати, получават директни препоръки от <a href="https://softuni.bg/careers/candidates">кариерния център</a> на СофтУни за стартиране на работа, в зависимост от своите предпочитания и цели.
+                </p></div>
+        </div>
+    </div>
+
+    <div class="trainers-section">
+        <div class="container">
+            <div class="benefit-description"><h2 class="text-left">Преподавателски състав</h2><p>Високото качество на обучение в СофтУни е гарантирано от преподавателски състав,
+                    който се състои от едни от най-добрите практици и трейнъри в софтуерната
+                    индустрия. Курсистите ще имат възможност да черпят познания от водещи имена в
+                    сферата, като сред тях са основатели, технологични директори, софтуерни
+                    архитекти и старши програмисти на водещи софтуерни компании, както и известни
+                    лица, водили лекции на международни технологични конференции.
+                </p></div>
+            <div class="benefit-picture trainers-picture col-md-6">
+                <img alt="Преподавателски състав"
+                     class="img-responsive" src="/Content/images/about-page/trainers-with-background.jpg"
+                     title="Преподавателски състав" />
+            </div>
+        </div>
+    </div>
+
+    <div class="softuni-mission-vision-container">
+        <div class="container">
+            <section class="image-wrapper">
+                <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Content/images/about-page/software-university-logos.svg" alt="Software University Logo" />
+            </section>
+            <section class="content-wrapper"><article class="vision-wrapper"><h2>Визия</h2><p>Нашата визия е да бъдем основен двигател на глобалната дигитална революция и да допренесем за изграждането на нова дигитална ера.
+                    </p></article><article class="mission"><h2>Мисия</h2><p>Нашата мисия е да изградим глобална организация, която предоставя практическо, качествено и достъпно образование в сферата на дигитални и информационни технологии, създавайки истински професионалисти и бъдещи лидери.
+                    </p><p>"Софтуерен университет" е проект на "Софтуерен университет" ЕООД и не е сред държавно акредитираните университети в България. Целта на СофтУни е именно да бъде тяхната алтернатива, стремейки се да осигури на своите студенти всичко необходимо, за да стартират възможно най-успешно своята кариера.
+                    </p></article></section>
+        </div>
+    </div>
+
+    <div class="successful-stories-wrapper">
+        <div class="container">
+            
+
+<div class="stories col-md-12 col-sm-12 col-xs-12">
+    <div id="successful-stories-videos" class="successful-stories-videos row html-raw-wrapper">
+        <h3 class="about-page-title">Успешни истории на наши студенти</h3>
+        <div id="stories-carousel" class="stories-carousel">
+                <div class="successful-stories-video">
+                    <div class="embed-video-wrapper">
+                        <div id="hCbP2rKZSoM" class="embed-responsive embed-responsive-16by9">
+                            <iframe width="560" height="315" src='https://www.youtube.com/embed/hCbP2rKZSoM' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <h4 class="successful-stories-video-title">Свилен Топузов</h4>
+                    <p class="successful-stories-video-subtitle">Application Developer</p>
+                </div>
+                <div class="successful-stories-video">
+                    <div class="embed-video-wrapper">
+                        <div id="T-g9il7AYh8" class="embed-responsive embed-responsive-16by9">
+                            <iframe width="560" height="315" src='https://www.youtube.com/embed/T-g9il7AYh8' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <h4 class="successful-stories-video-title">Константин Савов</h4>
+                    <p class="successful-stories-video-subtitle">Application Developer</p>
+                </div>
+                <div class="successful-stories-video">
+                    <div class="embed-video-wrapper">
+                        <div id="zZ4RojeTCYk" class="embed-responsive embed-responsive-16by9">
+                            <iframe width="560" height="315" src='https://www.youtube.com/embed/zZ4RojeTCYk' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <h4 class="successful-stories-video-title">Йорданка Василева</h4>
+                    <p class="successful-stories-video-subtitle">Application Developer</p>
+                </div>
+                <div class="successful-stories-video">
+                    <div class="embed-video-wrapper">
+                        <div id="NGDHsrWP-nI" class="embed-responsive embed-responsive-16by9">
+                            <iframe width="560" height="315" src='https://www.youtube.com/embed/NGDHsrWP-nI' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <h4 class="successful-stories-video-title">Иван Лалев</h4>
+                    <p class="successful-stories-video-subtitle">Съосновател на Gravitech</p>
+                </div>
+                <div class="successful-stories-video">
+                    <div class="embed-video-wrapper">
+                        <div id="10HuuHj_b_o" class="embed-responsive embed-responsive-16by9">
+                            <iframe width="560" height="315" src='https://www.youtube.com/embed/10HuuHj_b_o' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <h4 class="successful-stories-video-title">Ваня Беновска</h4>
+                    <p class="successful-stories-video-subtitle">Full Stack C++ Developer</p>
+                </div>
+                <div class="successful-stories-video">
+                    <div class="embed-video-wrapper">
+                        <div id="g6uu2oWwvOw" class="embed-responsive embed-responsive-16by9">
+                            <iframe width="560" height="315" src='https://www.youtube.com/embed/g6uu2oWwvOw' frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <h4 class="successful-stories-video-title">Десислава Бобошевска</h4>
+                    <p class="successful-stories-video-subtitle">HR Manager</p>
+                </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+
+    <div class="student-comments-container">
+        <div class="student-comments-wrapper">
+            <div class="container">
+                <section class="students-comments-section">
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/gburlakova.jpg" alt="Габриела Бурлакова" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Габриела Бурлакова</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation">PHP Developer в E-act</span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Самото обучение в СофтУни за мен има изключително много позитиви, които видях още с първите няколко лекции. Курсовете са последователни, което дава възможност за концентриране на усилиятав една насока. Лекциите, включват много практика както като примери, давани от лекторите, така и под формата на лабове. Отборните проекти, от своя страна, са друг безспорен плюс на СофтУни. За мен изборът да бъда част от СофтУни със сигурност е правилен и сега, поглеждайки две години назад, осъзнавам кое е най-голямото му предимство. Това е шансът да видиш, че трудът с постоянство и мотивация води до постигане на всяка поставена цел. Този шанс получих аз в СофтУни и той промени коренно живота ми във всяко едно отношение.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/ividenov.jpg" alt="Илиян Виденов" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Илиян Виденов</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation">Java Developer в SAP Labs</span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Реших да се занимавам с програмиране, защото винаги съм се интересувал от компютри, като проблемът единствено беше, че винаги съм мислел, че програмирането не е за мен. Това беше така, докато не попаднах на безплатния курс по Основи на програмирането, като на него разбрах, че нещата са ми сравнително лесни, не ме натоварват по какъвто и да е начин и съответно се справях доста добре с всичко,което трябваше да правя. Всички курсове в Софтуерния университет са много полезни, но ако трябва да отлича някои, те ще са ООП, КПК, Структури от данни и Алгоритми. </p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/sstoikov.png" alt="Симеон Стойков" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Симеон Стойков</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation">JavaScript Developer в Software Group</span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Реших да се занимавам с програмиране, защото то е интересно и предизвикателно за мен, когато програмираш всеки ден научаваш нещо ново. Програмирането ти дава възможността да твориш и да реализираш всякакви проекти, които ти хрумнат, като по този начин ти дава свобода. СофтУни ми помогна в обучението ми като програмист със структурираните и достъпни курсове, които предлага. В СофтУни имa последователност на научаваните неща, там ти се дава насока към която да вървиш когато се обучаваш,                което е много ценно за един начинаещ програмист. Обучението е главно практически насочено, което пък помага да научиш нещата в детайли и да видиш как те реално се случват. Смятам, че именно тази практическа насоченост е най-ценното и полезното в обучението ми там.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/dpetrovaliev.jpg" alt="Даниел Петровалиев" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Даниел Петровалиев</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation">PHP Developer в NetInfo</span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none">
+                                    <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z"
+                                          fill="#FFA000" />
+                                    <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="19">
+                                        <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z"
+                                              fill="#E6E6E6" />
+                                    </mask>
+                                    <g mask="url(#mask0)">
+                                        <rect x="10" width="10" height="19" fill="#E6E6E6" />
+                                    </g>
+                                </svg>
+                        </div>
+                        <p class="comment-text">Учебната програма на СофтУни е по-практически насочена и няма как да се случи да загубиш интерес към знанията и уменията, които предстои да усвоиш във времето. Истината е, че никога не ми е било скучно да посещавам лекции и да работя върху домашната си работа, защото те винаги са били съобразени с проектите, по които се работи в една реална IT компания - било то в България или по света. Няма нищо излишно и ненужнo всичко съответства на изискванията от работодателите на пазара на труда. Най-ценното, което ми даде СофтУни, е възможността да се запозная с всички тези мотивирани и целенасочени преподаватели и студенти, които срещнах тук от 2014 насам. Мисля си, че това най-много допринесе да навляза по-бързо в тази сфера и усили желанието ми да продължавам да се развивам.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/yslavcheva.jpg" alt="Яна Славчева" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Яна Славчева</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation">.NET Developer в Easy Credit</span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none">
+                                    <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z"
+                                          fill="#FFA000" />
+                                    <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="19">
+                                        <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z"
+                                              fill="#E6E6E6" />
+                                    </mask>
+                                    <g mask="url(#mask0)">
+                                        <rect x="10" width="10" height="19" fill="#E6E6E6" />
+                                    </g>
+                                </svg>
+                        </div>
+                        <p class="comment-text">За мен програмирането е постоянно решаване на проблеми и загадки, което много ми допада. Харесвам и това, че професията изисква постоянно да се учиш и да се развиваш. Преди Софтуерния университет нямах никакъв опит в програмирането. СофтУни ми даде здравите основи, на база на които надграждам и разширявам знанията и уменията си. Едни от най-полезните умения, които развих в СофтУни, са - как да подхождам към решаването на проблеми, как да работя в екип с колеги, как да стъпя във вече съществуващ код и да го надградя, как да изграждам успешно проекти от нулата и как да спазвам срокове. Смятам, че всички тези умения са основополагащи, за да може един софтуерен специалист да бъде успешен и полезен на работното си място.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/dbonev.jpg" alt="Димитър Бонев" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Димитър Бонев</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation">JavaScript Developer в Tiger Technology</span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">По време на обучението ми в СофтУни на няколко пъти ми се е налагало да стоя по 15 - 17 часа на денонощие с домашните, екипните проекти и подготовките за изпити. Имах няколкогодишен опит в програмирането, както и проекти за реални фирми и въпреки това обучението успяваше да ангажира почти всичкото ми време, независимо от натрупаните знания през годините. Освен всичко останало духът, който се образува между студентите е нещо неописуемо с думи. Нещо, което може само да се почувства и изживее. Това е дух на конкуренция, който в същото време затяга приятелските отношения между студентите все повече. Ние си помагахме с всичко, което можехме. Казвахме си едни на други, всичко което бяхме усвоили и научили. Палитрата от технологии, които усвоих тук, беше толкова пъстра, че се чудех с какво да се захвана да работя.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/ginkov.jpg" alt="Георги Инков" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Георги Инков</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation">.NET Developer във Vivacom</span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Бях професионален музикант, но се ориентирах към програмирането, eдин приятел ме запали. И до ден днешен продължавам да идвам на курсове в СофтУни. Създадохме си свое собствено community. Обучението, преподавателите и приятелите от СофтУни ми помогнаха за един нов кариерен старт. Благодарение на менторската програма, която Софтуерния университет организира съвместно със стоите компании-партньори, успях да се запозная със своите бъдещи колеги и да стартирам работа в компания като Vivacom.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/pmihaylov.jpg" alt="Преслав Михайлов" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Преслав Михайлов</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation">Софтуерен инженер във Visteon Electronics</span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Реших да се захвана с програмиране, защото мисля че професията е изключително интересна и предлага изключително много предизвикателства. Това което харесвам в професията си, е че точно поради това се налага постоянно да се развивам и да уча нови неща. Следствие от обучението си в СофтУни получих полезни знания и умения, но най-същественото и ценно нещо което получих е умението да се уча и развивам непрестанно.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/vdimitrov.jpg" alt="Виктор Димитров" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Виктор Димитров</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation"></span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Избрах да се обучавам в присъствена форма, за да имам личен контакт с преподавателите, както и с останалите курсисти. Така имах възможност да задавам въпросите, които ми изникваха в главата още на момента по време на лекцията или упражнението. Атмосферата мога да опиша като креативна и предразполагаща към личностно развитие. Всички курсове от програмата бяха полезни. Няма нещо от материала, който съм учил в СофтуУни, което да не съм използвал в работата си!</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/ibakurdziev.jpg" alt="Илия Бакърджиев" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Илия Бакърджиев</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation"></span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Присъствената форма на обучение има много предимства - реален контакт с лектори и колеги, с които да споделяте ценен опит! В СофтуУни има страхотно community от готини хора, които винаги са насреща, ако имаш нужда от помощ!</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/gstanoeva.jpg" alt="Габриела Станоева" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Габриела Станоева</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation"></span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">СофтУни е най-голямото предизвикателство, което съм поемал! Качеството на обучение, темпото на преподаване и приятното отношение са главната причина да се спра на академията. Атмосферата е уникална!</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/dkondov.jpg" alt="Даниел Кондов" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Даниел Кондов</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation"></span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Това, което ми помогна най-много са уменията, придобити от множеството практични занятия в СофтуУни!</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/abuzov.jpg" alt="Ангел Бузов" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Ангел Бузов</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation"></span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Избрах СофтУни, защото обучението е изключително иновативно и съвременно, следят се новите тенденции в технологичния свят и програмата се update-ва спрямо тях. Всичко е &quot;straight to the point&quot;. Набляга се на практиката, а не на сухи теории.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/smustafov.jpg" alt="Севгин Мустафов" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Севгин Мустафов</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation"></span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Още от първата лекция усетих, че това е моето място. Беше ми изключително приятно. Отивах с голямо удоволствие, а се прибирах от там с нежелание. Атмосферата беше уникална и мотивираща. С ръка на сърцето ще кажа, че това е най-якото място за учене.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/zbotushanov.jpg" alt="Здравко Ботушанов" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Здравко Ботушанов</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation"></span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Атмосферата в СофтУни винаги е много позитивна, понякога дори веселяшка. Хората са супер готини и много лесно можеш да намериш нови приятели, както и доста полезни контакти.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/dspasov.png" alt="Димитър Спасов" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Димитър Спасов</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation"></span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Трябваше ми само една лекция от Programming Basics, за да се уверя, че Софтуерния университет е възможно най-добрата образователна система за мен. Съвременни технологии, иновативен учебен модел с много теория плюс необходимата практика, млади и ентусиазирани преподаватели! С помощта на СофтУни започнах работа още преди да завърша!</p>
+                    </div>
+                </div>
+            </article>
+            <article class="student-comment">
+                <div class="single-comment-body single-comment-container col-md-10 col-sm-12">
+                    <div class="student-comment-image">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Files/UserFiles/ImageGallery/btonchev.jpg" alt="Божидар Тончев" />
+                    </div>
+                    <div class="student-comment-info">
+                        <p>
+                            <span class="student-name">Божидар Тончев</span>
+                        </p>
+                        <p>
+                            <span class="comment-occupation"></span>
+                        </p>
+                        <div class="student-comment-rating">
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                            <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                 fill="none" viewBox="0 0 20 19">
+                                <path fill="#FFA000"
+                                      d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                            </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19"
+                                     fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FFA000"
+                                          d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                        </div>
+                        <p class="comment-text">Най-полезен за моето развитие като програмист беше курсът &quot;Programming Basics&quot;. Този курс ми даде основите, научи ме да мисля като програмист, а това е най-важното!</p>
+                    </div>
+                </div>
+            </article>
+
+</section>
+            </div>
+        </div>
+    </div>
+
+    <div class="awards">
+        <div class="container">
+            
+
+<section class="awards redesign-container">
+    <h2 class="awards-title text-center">Награди</h2>
+    <article class="awards-content">
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/bait-logo.jpg alt=bait-logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Награда за образование за 2014 г.</h4>
+                        <p class="award-subtitle">БАИТ - Българска Асоциация по Информационни Технологии</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/bwa-logo.png alt=Bulgarian web awards logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Образователна платформа за 2015 г.</h4>
+                        <p class="award-subtitle">Български Уеб Награди</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/forbes-2015-logo.png alt=Forbes logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Награда за обществена дейност за 2015 г.</h4>
+                        <p class="award-subtitle">Бизнес награди на Forbes</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/forbes-2015-logo.png alt=Forbes logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Най-добър стартиращ бизнес за 2015 г.</h4>
+                        <p class="award-subtitle">Бизнес награди на Forbes</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/award-icon.svg alt=Award />
+                    <article class="award-description">
+                        <h4 class="award-title">Иновативно предприятие на годината 2016</h4>
+                        <p class="award-subtitle">Иновации за развитие на таланти</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/bait-logo.jpg alt=Bait logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Награда за образование за 2016 г.</h4>
+                        <p class="award-subtitle">БАИТ - Българска Асоциация по Информационни Технологии</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/barok-logo.png alt=Barok logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Категория „Образователна организация“ 2017г.</h4>
+                        <p class="award-subtitle">Барок</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/innovators-in-education.png alt=Innovators in education logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Първо място в категория &quot;Образование&quot;</h4>
+                        <p class="award-subtitle">Новатори в образованието</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/forbes-2017-logo.png alt=Forbes logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Първо място в категория &quot;Развитие на бизнеса&quot; 2017 г.</h4>
+                        <p class="award-subtitle">Бизнес награди на Forbes</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/forbes-2018-logo.png alt=Forbes logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Награда за обществена дейност за 2018 г.</h4>
+                        <p class="award-subtitle">Бизнес награди на Forbes</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/innovations-2018.jpg alt=Innovations logo />
+                    <article class="award-description">
+                        <h4 class="award-title">Високи постижения в иновациите</h4>
+                        <p class="award-subtitle">Български форум на бизнес лидерите 2018</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/annual-business-award.jpg alt=Annual business award />
+                    <article class="award-description">
+                        <h4 class="award-title">Инвеститор в знанието</h4>
+                        <p class="award-subtitle">Българския форум на бизнес лидерите</p>
+                    </article>
+                </article>
+                <article class="award text-center">
+                    <img title="Награди" src=/Content/images/career-show-award.png alt=Career Show Awards 2020 />
+                    <article class="award-description">
+                        <h4 class="award-title">Най-добър работодател - Образование</h4>
+                        <p class="award-subtitle">Career Show Awards 2020</p>
+                    </article>
+                </article>
+
+    </article>
+</section>
+
+        </div>
+    </div>
+
+    <div class="international-section">
+        <div class="container">
+            <div class="international-section-content-wrapper"><div class="international-section-content-description"><h3>SoftUni на международната сцена
+                </h3><p>През 2019 година SoftUni направи първите крачки към изнасянето на бизнес модела отвъд пределите на страната. Към настоящия момент компанията оперира успешно на румънския пазар, предоставяйки безплатни обучения по основи на програмирането, както и цялостна учебна програма по софтуерно инженерство. Повече вижте в платформата с обучения - <a href="https://ro.softuni.org/">https://ro.softuni.org/</a>.
+ </p></div></div>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+
+<footer id="page-footer" class="page-footer">
+    <div class="container container-holder">
+        <ul class="page-footer-content row no-margin-offset">
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper about-us-container">
+                <div class="heading list-title">Software University</div>
+                <ul class="footer-list">
+                    <li><a href="/about">За нас</a></li>
+                    <li><a href="/curriculum">Учебен план</a></li>
+                    <li><a href="/diplomas-and-certificates">Сертификати</a></li>
+                    <li><a href="/trainers">Преподаватели</a></li>
+                    <li><a href="/plans">Такси за обучение</a></li>
+                    <li><a href="/faq">Често задавани въпроси</a></li>
+                    <li><a href="/files/termsandconditions/terms-and-conditions.pdf">Общи условия</a></li>
+                    <li><a href="/files/privacypolicy/privacy-policy.pdf">Лични данни</a></li>
+                    <li><a href="/sitemap">Карта на сайта</a></li>
+                </ul>
+            </li>
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper trainings-container">
+                <div class="heading list-title">Всички обучения</div>
+                <ul class="footer-list">
+                    <li>
+                        <a href="/trainings/courses">Програма по софтуерно инженерство</a>
+                    </li>
+                    <li>
+                        <a href="/trainings/opencourses">Отворени курсове</a>
+                    </li>
+                    <li>
+                        <a href="/trainings/seminars">Семинари</a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper initiatives-container">
+                <div class="initatives">
+                    <div class="heading list-title">Всички инициативи</div>
+                    <ul class="footer-list">
+                        <li>
+                            <a href="https://digital.softuni.bg" title="SoftUni Digital">
+                                SoftUni Digital
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://creative.softuni.bg" title="SoftUni Creative">
+                                SoftUni Creative
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://kids.softuni.bg" title="SoftUni Kids">
+                                SoftUni Kids
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://svetlina.softuni.bg" title="SoftUni Svetlina">
+                                SoftUni Svetlina
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://softuni.foundation/" title="SoftUni Foundation">
+                                SoftUni Foundation
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper social-icons-container">
+                <ul class="social">
+                    
+                    <li class="social-icon">
+                        
+                        <span hashstring="aHJlZj1odHRwczovL3d3dy5mYWNlYm9vay5jb20vU29mdHdhcmVVbml2ZXJzaXR5LHRhcmdldD1fYmxhbmssY2xhc3M9aWNvbi1idG4gZmFjZWJvb2staWNvbg==" hashtype="content"></span>
+                    </li>
+                    <li class="social-icon">
+                        
+                        <span hashstring="aHJlZj1odHRwczovL3R3aXR0ZXIuY29tL3NvZnR1bmliZyx0YXJnZXQ9X2JsYW5rLGNsYXNzPWljb24tYnRu" hashtype="content"></span>
+                    </li>
+                    <li class="social-icon">
+                        
+                        <span hashstring="aHJlZj1odHRwczovL3d3dy55b3V0dWJlLmNvbS91c2VyL3NvZnR3YXJldW5pdmVyc2l0eSx0YXJnZXQ9X2JsYW5rLGNsYXNzPWljb24tYnRu" hashtype="content"></span>
+                    </li>
+                    <li class="social-icon">
+                        
+                        <span hashstring="aHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3NvZnR1bmksdGFyZ2V0PV9ibGFuayxjbGFzcz1pY29uLWJ0bg==" hashtype="content"></span>
+                    </li>
+                    <li class="social-icon">
+                        
+                        <span hashstring="PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3NvZnR1bmkiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iaWNvbi1idG4iPjxzcGFuIGNsYXNzPSJnaXRodWItaWNvbiI+PC9zcGFuPjwvYT4=" hashtype="content"></span>
+                    </li>
+                    <li class="social-icon">
+                        <a href="/feed" target="_blank" class="icon-btn">
+                            <span class="rss-icon"></span>
+                        </a>
+                    </li>
+                </ul>
+
+                <div class="payment-methods-container">
+                    <a class="payment-method" href="https://usa.visa.com/" target="_blank">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Content/images/payments/verified-by-visa.png" alt="Verified by Visa" height="38" />
+                    </a>
+                    <a class="payment-method" href="http://www.mastercardbusiness.com/mcbiz/index.jsp?template=/orphans&content=securecodepopup" target="_blank">
+                        <img title="Най-задълбочената програма по софтуерно инженерство в България" src="/Content/images/payments/sclogo_68x37.gif" alt="MasterCard® SecureCode™" height="38" />
+                    </a>
+                </div>
+
+                <div class="all-rights-reserved">
+                    <p class="all-rights-reserved-date">© 2013-2021 - Software University LTD - All Rights Reserved. 94851</p>
+                    <p class="all-rights-reserved-version">Software University Learning System 3.0.7775</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+    <a href="#" id="scrollToTop" class="button-to-top"><span class="glyphicon glyphicon-chevron-up"></span></a>
+
+<script>
+    $(document).ready(function () {
+        var offset = 220;
+        var duration = 500;
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > offset) {
+                $('#scrollToTop').fadeIn(duration);
+            } else {
+                $('#scrollToTop').fadeOut(duration);
+            }
+        });
+
+        $('#scrollToTop').click(function (event) {
+            event.preventDefault();
+            $('html, body').animate({ scrollTop: 0 }, 800);
+            return false;
+        });
+    });
+</script>
+
+    <script src="/Scripts/webshims/polyfiller.js"></script>
+    <script src="/signalr/hubs"></script>
+    <script>webshim.polyfill('forms');</script>
+
+<script src="/bundles/kendo?v=hpwdzpUUmS7f7yqhOKpG9ajxYrH3jz78EUuGkEXaR5I1"></script>
+
+    <script src="/bundles/global?v=hyPsg4x4AcQnet_cxe4ts6M-zz_2y8nwBXEFhx1tHXc1"></script>
+
+
+    <script src="/Scripts/common/my-collapsible.js" defer></script>
+
+    <script type="text/javascript">
+        $(function () {
+
+            sulsControls.ReferralsControls.checkForReferral();
+        });
+    </script>
+
+    
+    <script src="/bundles/about-page?v=dvmNX0Gp7fm-6T0dmlHCoZHfFGuhx_OKAAZCnUM3ZiY1"></script>
+
+
+
+    <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://softuni.bg",
+        "logo": "https://softuni.bg/content/images/software-university-logo.png"
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+        "@context" : "http://schema.org",
+        "@type" : "Organization",
+        "name" : "Софтуерен университет",
+        "url" : "https://softuni.bg",
+        "sameAs" : [
+        "https://www.facebook.com/SoftwareUniversity",
+        "https://twitter.com/softunibg",
+        "https://plus.google.com/+SoftuniBg"
+        ]
+        }
+    </script>
+
+    
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net5.0\AsyncDemo.exe
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net5.0\AsyncDemo.deps.json
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net5.0\AsyncDemo.runtimeconfig.json
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net5.0\AsyncDemo.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net5.0\AsyncDemo.dll
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net5.0\ref\AsyncDemo.dll
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\bin\Debug\net5.0\AsyncDemo.pdb
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net5.0\AsyncDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net5.0\AsyncDemo.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net5.0\AsyncDemo.AssemblyInfo.cs
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net5.0\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net5.0\AsyncDemo.dll
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net5.0\ref\AsyncDemo.dll
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net5.0\AsyncDemo.pdb
+C:\Users\Mert\source\repos\AsyncDemo\AsyncDemo\obj\Debug\net5.0\AsyncDemo.genruntimeconfig.cache

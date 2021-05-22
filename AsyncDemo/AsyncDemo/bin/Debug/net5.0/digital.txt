@@ -1,0 +1,2812 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0">
+
+
+<script>
+    (function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5738Q3G');</script>
+
+
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] ||
+            function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-11309924-8', 'auto');
+    ga('send', 'pageview');
+</script>
+
+
+
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+        n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '911920462219791');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=911920462219791&ev=PageView&noscript=1" />
+</noscript>
+
+
+    
+
+
+<title>Курсове и уроци по маркетинг и дигитален маркетинг - SoftUni Digital</title>
+<link href="/Content/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+<link rel="canonical" href="https://digital.softuni.bg/" />
+
+<meta property="fb:app_id" content="1442925725936458">
+<meta property="og:url" content="https://digital.softuni.bg/" />
+<meta property="og:site_name" content="SoftUni Digital">
+<meta property="og:locale" content="bg_BG" />
+<meta property="og:locale:alternate" content="en_US" />
+
+
+    
+
+        <!--
+        
+        -->
+        <meta name="title" content="Дигитален маркетинг - курсове и обучения - SoftUni Digital" />
+        <meta name="description" content="SoftUni Digital предлага цялостна програма с достъпни, качествени и практически курсове по дигитален маркетинг.  Кандидатствай още днес! " />
+
+        <meta property="og:title" content="Курсове по дигитален маркетинг" />
+        <meta property="og:description" content="SoftUni Digital" />
+        <meta property="og:image" content="https://digital.softuni.bg/Content/images/open-graph/digital-default-og.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="600" />
+
+<style>
+    @font-face {
+        font-family: 'FontAwesome';
+        src: url('/Content/fonts/redesign/subset-FontAwesome.woff2') format('woff2');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Lato';
+        src: url('/Content/fonts/redesign/Lato-Regular.woff2') format('woff2');
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'LatoMedium';
+        src: url('/Content/fonts/redesign/Lato-Medium.woff2') format('woff2');
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'LatoSemibold';
+        src: url('/Content/fonts/redesign/Lato-Semibold.woff2') format('woff2');
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'LatoBold';
+        src: url('/Content/fonts/redesign/Lato-Bold.woff2') format('woff2');
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'LatoHeavy';
+        src: url('/Content/fonts/redesign/Lato-Heavy.woff2') format('woff2');
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'LatoBlack';
+        src: url('/Content/fonts/redesign/Lato-Black.woff2') format('woff2');
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Montserrat-Bold';
+        src: url('/Content/fonts/redesign/Montserrat-Bold.woff2') format('woff2');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Montserrat-SemiBold';
+        src: url('/Content/fonts/redesign/Montserrat-SemiBold.woff2') format('woff2');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Montserrat-Medium';
+        src: url('/Content/fonts/redesign/Montserrat-Medium.woff2') format('woff2');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+</style>
+<link href="/content/redesign-base-vendor?v=pmOD49vWWKV85DgMfV8jj-zeOaZziN53xCWdms7fj-E1" rel="stylesheet"/>
+<link href="/content/redesign-base?v=Uibd54o0fB0Gbztaxo2xi3G0RS9L-vUZ7kaw_iijrkc1" rel="stylesheet"/>
+
+    
+    <link href="/content/home?v=d0bv6p_-i0Ba7Z3XaYkaIKt7_A7F9qwxQyvJfwUIBw01" rel="stylesheet"/>
+
+
+<link href="/content/home-header-campaign?v=tnk-52_xLuDhNBGP_8yRjw8d-82vjljyYOMFMc6Iexg1" rel="stylesheet"/>
+
+
+
+    <link rel="stylesheet" type="text/css" href="/Content/css/common/my-collapsible.css" />
+</head>
+<body>
+
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5738Q3G"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+
+    
+
+
+
+
+<div class="navbar navbar-inverse">
+    <header id="page-header" class="header-wrapper redesign-container">
+        <div class="login-navigation dropdown-item">
+            <div id="search-icon-container">
+                
+<a href="javascript:;" class="icon-btn header-search-dropdown-link">
+    <span class="cell">
+        <i class="fa fa-search"></i>
+    </span>
+</a>
+
+<div id="search-dropdown" class="custom-dropdown toggle-holder">
+    <div class="container container-holder">
+        <form method="get" action="/Search/Results">
+            <div class="search-wrap">
+                <button type="submit">
+                    <i class="fa fa-search header-search-form-icon"></i>
+                </button>
+                <input type="text"
+                    id="search-input"
+                    class="search-field"
+                    placeholder="Търси в сайта"
+                    name="SearchTerm" />
+            </div>
+            <div class="filters-holder">
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Courses"
+                        value="true"
+                        checked
+                        name="FastTrackInstances" />
+                    <label class="checkbox-label" for="Courses">Курсове</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Seminars"
+                        value="true"
+                        checked
+                        name="Seminars" />
+                    <label class="checkbox-label" for="Seminars">Семинари</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Users"
+                        value="true"
+                        checked
+                        name="Users" />
+                    <label class="checkbox-label" for="Users">Потребители</label>
+                </div>
+                <div class="filter-wrap checkbox-wrap">
+                    <input type="checkbox"
+                        id="Resources"
+                        value="true"
+                        checked
+                        name="LectureResources" />
+                    <label class="checkbox-label" for="Resources">Ресурси</label>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+            </div>
+
+
+                <span class="nav-button-login">
+                    <a class="btn redesign-primary-button" href="/login?returnUrl=/" alt="Login btn">Вход</a>
+                </span>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-header">
+            <div class="hover-dropdown">
+                <div class="hover-dropdown-btn">
+                    <i class="fa fa-fw fa-2x fa-caret-right"></i>
+                    <a href="/" class="navbar-brand">
+                        <img class="hidden-xs lazy-logo" data-src="/Content/images/svg-logos/digital-logo.svg" alt="SoftUni Digital Logo" id="digital-logo" title="SoftUni Digital" />
+                        <img class="visible-xs lazy-logo" data-src="/Content/images/svg-logos/digital-logo-mobile-white.svg" alt="SoftUni Digital Logo" id="mobile-logo" title="SoftUni Digital" />
+                    </a>
+                </div>
+                <div class="hover-dropdown-content">
+                    <a href="https://about.softuni.bg" title="SoftUni">
+                        <img class="lazy-logo" data-src="/Content/images/svg-logos/softuni-logo.svg" alt="SoftUni logo" id="softuni-logo" title="SoftUni" />
+                    </a>
+                    <a href="https://softuni.bg" title="Software University">
+                        <img class="lazy-logo" data-src="/content/images/svg-logos/software-university-logo.svg" alt="Logo" id="software-university-logo" title="Software University" />
+                    </a>
+                    <a href="https://creative.softuni.bg" title="SoftUni Creative">
+                        <img class="lazy-logo" data-src="/Content/images/svg-logos/creative-logo.svg" alt="SoftUni Creative logo" id="creative-logo"  title="SoftUni Creative" />
+                    </a>
+                    <a href="http://kids.softuni.bg" title="SoftUni Kids">
+                        <img class="lazy-logo" data-src="/Content/images/svg-logos/kids-logo.svg" alt="SoftUni Kids logo" id="kids-logo" title="SoftUni Kids" />
+                    </a>
+                    <a href="https://svetlina.softuni.bg" title="SoftUni Svetlina">
+                        <img class="lazy-logo" data-src="/Content/images/svg-logos/light-logo.svg" alt="SoftUni Svetlina logo" id="light-logo" title="SoftUni Svetlina" />
+                    </a>
+                    <a href="http://softuni.foundation/" title="SoftUni Foundation">
+                        <img class="lazy-logo" data-src="/Content/images/svg-logos/foundation-logo.svg" alt="SoftUni Foundation logo" id="foundation-logo" title="SoftUni Foundation" />
+                    </a>
+                </div>
+            </div>
+        </div>
+        <nav class="page-header-navigation">
+            <div class="navbar-main navbar-collapse collapse" id="navbar-main">
+                <ul class="navbar-general nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/about" class="redesign-anchor">За нас</a>
+                    </li>
+                    <li class="nav-item nav-item-dropdown">
+                        <a class="dropdown-trigger redesign-anchor" href="javascript:;">
+                            Обучения
+                            <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                        </a>
+                        <div class="trainings-dropdown-menu nav-item-dropdown-content full-width">
+                            
+
+
+
+<div class="row no-margin-offset">
+        <div class="col-md-6 col-xs-12">
+                <div class="trainings-category bottom-buffer-lg">
+                    <span class="uppercase trainings-category-name">Предстоящи модули</span>
+                </div>
+                <div class="trainings">
+                    <ul class="trainings levels">
+                        <li class="category-nav levels-nav top-buffer-xs">
+    <a class="training-name-link" href="/modules/38/Performance-Marketing-Optimizations-May-2021">
+        <div class="training-name-text">
+            Performance Marketing Optimizations - май 2021
+        </div>
+    </a>
+</li>
+<li class="category-nav levels-nav top-buffer-xs">
+    <a class="training-name-link" href="/modules/39/Search-Engine-Marketing-Advanced-May-2021">
+        <div class="training-name-text">
+            Search Engine Marketing Advanced - май 2021
+        </div>
+    </a>
+</li>
+<li class="category-nav levels-nav top-buffer-xs">
+    <a class="training-name-link" href="/modules/37/Content-Creation-and-Strategy-May-2021">
+        <div class="training-name-text">
+            Content Creation and Strategy - май 2021
+        </div>
+    </a>
+</li>
+<li class="category-nav levels-nav top-buffer-xs">
+    <a class="training-name-link" href="/modules/41/Performance-Marketing-June-2021">
+        <div class="training-name-text">
+            Performance Marketing - юни 2021
+        </div>
+    </a>
+</li>
+
+                    </ul>
+                </div>
+
+                <div class="my-collapsible ">
+                    <div class="trainings-category my-collapsible-header bottom-buffer-lg">
+                        <span class="uppercase trainings-category-name">Активни модули</span>
+                        <i class="my-collapsible-indicator fa fa-plus-circle pull-right"></i>
+                    </div>
+                    <div class="my-collapsible-body">
+                        <ul class="trainings">
+                            <li class="category-nav levels-nav top-buffer-xs">
+    <a class="training-name-link" href="/modules/35/Fundamentals-Module-February-2021">
+        <div class="training-name-text">
+            Fundamentals Module - февруари 2021
+        </div>
+    </a>
+</li>
+<li class="category-nav levels-nav top-buffer-xs">
+    <a class="training-name-link" href="/modules/36/SEO-Analytics-march-2021">
+        <div class="training-name-text">
+            SEO &amp; Analytics - март 2021
+        </div>
+    </a>
+</li>
+<li class="category-nav levels-nav top-buffer-xs">
+    <a class="training-name-link" href="/modules/40/Fundamentals-Module-May-2021">
+        <div class="training-name-text">
+            Fundamentals Module - май 2021
+        </div>
+    </a>
+</li>
+
+                        </ul>
+                    </div>
+                </div>
+        </div>
+
+    <div class="col-xs-12 col-md-6">
+            <div class="trainings-category bottom-buffer-lg">
+                <span class="uppercase trainings-category-name">Предстоящи курсове</span>
+            </div>
+            <div class="trainings">
+                <ul class="trainings levels">
+                    
+<li>
+    <a href="/trainings/3396/conversion-rate-optimization-and-automation-may-2021" class="training-name-link">
+        <div class="training-name-text">
+            Conversion Rate Optimization and Automation - май 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3398/google-ads-advanced-may-2021" class="training-name-link">
+        <div class="training-name-text">
+            Google Ads Advanced - май 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3394/copywriting-secrets-may-2021" class="training-name-link">
+        <div class="training-name-text">
+            Copywriting Secrets - май 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3408/digital-pr-and-social-media-june-2021" class="training-name-link">
+        <div class="training-name-text">
+            Digital PR &amp; Social Media - юни 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3361/facebook-marketing-june-2021" class="training-name-link">
+        <div class="training-name-text">
+            Facebook Marketing - юни 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3413/video-marketing-june-2021" class="training-name-link">
+        <div class="training-name-text">
+            Video Marketing - юни 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3402/marketing-basics-july-2021" class="training-name-link">
+        <div class="training-name-text">
+            Marketing Basics - юли 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3397/google-analytics-advanced-july-2021" class="training-name-link">
+        <div class="training-name-text">
+            Google Analytics Advanced - юли 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3395/content-strategy-july-2021" class="training-name-link">
+        <div class="training-name-text">
+            Content Strategy - юли 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3404/e-mail-marketing-july-2021" class="training-name-link">
+        <div class="training-name-text">
+            E-mail Marketing - юли 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3405/google-ads-september-2021" class="training-name-link">
+        <div class="training-name-text">
+            Google Ads - септември 2021
+        </div>
+    </a>
+</li>
+
+                </ul>
+            </div>
+
+            <div class="my-collapsible ">
+                <div class="trainings-category my-collapsible-header bottom-buffer-lg">
+                    <span class="uppercase trainings-category-name">Активни курсове</span>
+                    <i class="my-collapsible-indicator fa fa-plus-circle pull-right"></i>
+                </div>
+                <div class="my-collapsible-body">
+                    <ul class="trainings">
+                        
+<li>
+    <a href="/trainings/3360/content-marketing-may-2021" class="training-name-link">
+        <div class="training-name-text">
+            Content Marketing - май 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3392/social-media-marketing-for-beginners-april-2021" class="training-name-link">
+        <div class="training-name-text">
+            Social Media Marketing for Beginners - април 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/2312/google-analytics-april-2021" class="training-name-link">
+        <div class="training-name-text">
+            Google Analytics - април 2021
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/trainings/3388/wordpress-and-woocommerce-for-business-april-2021" class="training-name-link">
+        <div class="training-name-text">
+            WordPress and WooCommerce for Business - април 2021
+        </div>
+    </a>
+</li>
+
+                    </ul>
+                </div>
+            </div>
+    </div>
+    <div class="col-xs-12">
+        <a href="/trainings/opencourses"
+           class="btn btn-primary redesign-primary-button-reversed uppercase top-buffer">
+            Виж всички
+        </a>
+    </div>
+</div>
+
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/curriculum" class="redesign-anchor">Учебен план</a>
+                    </li>
+                    <li>
+                        <a href="/trainers" class="redesign-anchor">Преподаватели</a>
+                    </li>
+                    <li>
+                        <a href="/certificates" class="redesign-anchor">Сертификати</a>
+                    </li>
+                    <li>
+                        <a href="/fees" class="redesign-anchor">Такси</a>
+                    </li>
+                   <li class="nav-item nav-item-dropdown partners-nav-item">
+                        <a class="dropdown-trigger redesign-anchor" href="javascript:;">
+                            Партньори
+                            <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                        </a>
+                        <article class="partners-dropdown-menu nav-item-dropdown-content">
+                            <ul class="partners-list redesign-container">
+                                <li class="partners-list-item">
+                                    <a class="redesign-anchor" href="/partners">
+                                        Компании партньори
+                                    </a>
+                                </li>
+                                <li class="partners-list-item">
+                                    <a class="redesign-anchor" href="/become-a-partner">
+                                        Стани партньор
+                                    </a>
+                                </li>
+                            </ul>
+                        </article>
+                    </li>
+                    <li>
+                        <a href="/blog" class="redesign-anchor">Блог</a>
+                    </li>
+                    <li>
+                        <a href="/contacts" class="redesign-anchor">Контакти</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+</div>
+
+    
+
+        <div class="content regular">
+            <div class="system-messages-container loading-mask-container loading-mask-container-reversed">
+                
+
+
+
+
+
+<style>
+    .loading-mask-container {
+        position: relative;
+    }
+
+    .loading-mask-container-reversed .loading-mask {
+        color: #FFF;
+        background-color: rgba(252, 76, 80, 0.3);
+    }
+
+    .loading-mask {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        color: #FC4C50;
+        display: none;
+        background-color: rgba(252, 252, 252, 0.3);
+    }
+
+    .loading-spinner-container {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+</style>
+
+<div id="system-messages-loading-mask" class="loading-mask" title="Loading...">
+    <span class="loading-spinner-container">
+        <i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i>
+        <span class="sr-only">Loading...</span>
+    </span>
+</div>
+
+            </div>
+        </div>
+        <main class="page-wrapper">
+            
+
+
+
+
+
+
+<div class="header-section-wrapper header-section-wrapper-lazy" data-bg="url('/Content/images/home-page/home-header-campaign-hero.jpg')">
+    <div class="header-section-wrapper-shapes"></div>
+    <div class="page-content-wrapper">
+        <div class="header-section">
+            <h1 class="header-section-title">
+                Първата цялостна програма <br /> по <span>дигитален маркетинг</span> в България
+            </h1>
+            <div class="header-section-program-info-items">
+                <ul>
+                    <li class="application-header-description">
+                        <span class="check-icon"></span>
+                        <p><strong>Учи</strong> дигитален маркетинг от най-добрите</p>
+                    </li>
+                    <li class="application-header-description">
+                        <span class="check-icon"></span>
+                        <p><strong>Стани дигитален маркетинг експерт</strong></p>
+                    </li>
+                    <li class="application-header-description">
+                        <span class="check-icon"></span>
+                        <p>Развий успешен <strong>онлайн бизнес</strong></p>
+                    </li>
+                </ul>
+            </div>
+
+            <a href="/application" class="softuni-btn softuni-btn-primary">
+                Кандидатствай
+            </a>
+        </div>
+        <picture>
+            <source srcset="/Content/images/home-page/home-header-trainers.webp" type="image/webp">
+            <img class="header-section-wrapper-trainers" src="/Content/images/home-page/home-header-trainers.png" />
+        </picture>
+    </div>
+</div>
+
+<div class="google-digital-garage-section-wrapper ">
+    <div class="google-digital-garage-section-image">
+        <img 
+             class="lazy-google-digital-garage-section-image"
+             data-src='/Content/images/google.svg' alt="Google Logo" />
+    </div>
+    <p class="google-digital-garage-section-text">
+        SoftUni Digital е образователен партньор на Google Дигитален гараж за България и лицензиран учебен център по Закона за професионалното образование и обучение.
+    </p>
+</div>
+
+<section class="program-benefits-section">
+    <div class="page-content-wrapper">
+        <h2 class="program-benefits-section-title">
+            Предимства на програмата
+        </h2>
+        <ul class="program-benefits-section-benefits-list">
+            <div class="program-benefits-section-benefits-list-row">
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-1.svg" />
+                    </div>
+                    <div>
+                        <span>Най-задълбоченият учебен план, изграждащ реални практически умения</span>
+                    </div>
+                </li>
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-2.svg" />
+                    </div>
+                    <div>
+                        <span>
+                            Практически упражнения и работа по проекти от реална бизнес среда
+                        </span>
+                    </div>
+                </li>
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-3.svg" />
+                    </div>
+                    <div>
+                        <span>Звезден преподавателски състав от водещи експерти в България</span>
+                    </div>
+                </li>
+            </div>
+            <div class="program-benefits-section-benefits-list-row">
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-4.svg" />
+                    </div>
+                    <div>
+                        <span>Официални сертификати от SoftUni, Google и МОН</span>
+                    </div>
+                </li>
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-5.svg" />
+                    </div>
+                    <div>
+                        <span>Съдействие за кариерен старт във водещи компании</span>
+                    </div>
+                </li>
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-6.svg" />
+                    </div>
+                    <div>
+                        <span>Най-голямата студентска общност от над <span class="students-count">150 000</span> курсисти</span>
+                    </div>
+                </li>
+            </div>
+        </ul>
+
+        <ul class="program-benefits-section-benefits-list program-benefits-section-mobile-slider">
+            <div class="program-benefits-section-benefits-list-row">
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-1.svg" />
+                    </div>
+                    <div>
+                        <span>Най-задълбоченият учебен план, изграждащ реални практически умения</span>
+                    </div>
+                </li>
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-2.svg" />
+                    </div>
+                    <div>
+                        <span>
+                            Практически упражнения и работа по проекти от реална бизнес среда
+                        </span>
+                    </div>
+                </li>
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-3.svg" />
+                    </div>
+                    <div>
+                        <span>Звезден преподавателски състав от водещи експерти в България</span>
+                    </div>
+                </li>
+            </div>
+            <div class="program-benefits-section-benefits-list-row">
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-4.svg" />
+                    </div>
+                    <div>
+                        <span>Официални сертификати от SoftUni, Google и МОН</span>
+                    </div>
+                </li>
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-5.svg" />
+                    </div>
+                    <div>
+                        <span>Съдействие за кариерен старт във водещи компании</span>
+                    </div>
+                </li>
+                <li class="program-benefits-section-benefits-list-item">
+                    <div>
+                        <img class="lazy-program-benefits-section-benefits-list-item" src="/Content/images/application-landing-page/benefits-icons/program-benefits-6.svg" />
+                    </div>
+                    <div>
+                        <span>Най-голямата студентска общност от над <span class="students-count">150 000</span> курсисти</span>
+                    </div>
+                </li>
+            </div>
+        </ul>
+    </div>
+</section>
+
+
+
+
+
+<div class="course-cards-slider-section">
+    <div class="page-content-wrapper">
+        <strong class="course-cards-slider-section-title">
+            Курсове
+        </strong>
+        <div class="course-card-list">
+            
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/modules/38/Performance-Marketing-Optimizations-may-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/Files/Levels/performance-marketing-optimizations-module.jpg"
+             data-fallback-src="/content/images/default-images/level/icon.jpg"
+             alt="Performance Marketing Optimizations - май 2021"
+        />
+        <span class="course-card-name" title="Модул: Performance Marketing Optimizations - май 2021">
+            <span class="course-card-name-text">
+                Модул: Performance Marketing Optimizations - май 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            25 май 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            11 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/modules/39/Search-Engine-Marketing-Advanced-may-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/Files/Levels/search-engine-marketing-advanced-module.jpg"
+             data-fallback-src="/content/images/default-images/level/icon.jpg"
+             alt="Search Engine Marketing Advanced - май 2021"
+        />
+        <span class="course-card-name" title="Модул: Search Engine Marketing Advanced - май 2021">
+            <span class="course-card-name-text">
+                Модул: Search Engine Marketing Advanced - май 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            25 май 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            11 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/modules/37/Content-Creation-and-Strategy-may-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/Files/Levels/content-creation-and-strategy-module.jpg"
+             data-fallback-src="/content/images/default-images/level/icon.jpg"
+             alt="Content Creation and Strategy - май 2021"
+        />
+        <span class="course-card-name" title="Модул: Content Creation and Strategy - май 2021">
+            <span class="course-card-name-text">
+                Модул: Content Creation and Strategy - май 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            26 май 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            12 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3396/conversion-rate-optimization-and-automation-may-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/files/courses/conversion-rate-and-optimization-automation.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Conversion Rate Optimization and Automation - май 2021"
+        />
+        <span class="course-card-name" title="Conversion Rate Optimization and Automation - май 2021">
+            <span class="course-card-name-text">
+                Conversion Rate Optimization and Automation - май 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            25 май 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            6 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3398/google-ads-advanced-may-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/Files/Courses/googleadsadvanced.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Google Ads Advanced - май 2021"
+        />
+        <span class="course-card-name" title="Google Ads Advanced - май 2021">
+            <span class="course-card-name-text">
+                Google Ads Advanced - май 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            25 май 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            6 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3394/copywriting-secrets-may-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/files/courses/copywriting-secrets-1.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Copywriting Secrets - май 2021"
+        />
+        <span class="course-card-name" title="Copywriting Secrets - май 2021">
+            <span class="course-card-name-text">
+                Copywriting Secrets - май 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            26 май 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            6 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3408/digital-pr-and-social-media-june-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/Files/Courses/digital-pr-and-social-media.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Digital PR &amp; Social Media - юни 2021"
+        />
+        <span class="course-card-name" title="Digital PR &amp; Social Media - юни 2021">
+            <span class="course-card-name-text">
+                Digital PR &amp; Social Media - юни 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            03 юни 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            4 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3361/facebook-marketing-june-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/files/courses/facebook-marketing.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Facebook Marketing - юни 2021"
+        />
+        <span class="course-card-name" title="Facebook Marketing - юни 2021">
+            <span class="course-card-name-text">
+                Facebook Marketing - юни 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            17 юни 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            5 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3413/video-marketing-june-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/Files/Courses/video-marketing-2021.png"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Video Marketing - юни 2021"
+        />
+        <span class="course-card-name" title="Video Marketing - юни 2021">
+            <span class="course-card-name-text">
+                Video Marketing - юни 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            22 юни 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            3 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3402/marketing-basics-july-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/files/courses/marketing-fundamentals.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Marketing Basics - юли 2021"
+        />
+        <span class="course-card-name" title="Marketing Basics - юли 2021">
+            <span class="course-card-name-text">
+                Marketing Basics - юли 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            05 юли 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            5 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3397/google-analytics-advanced-july-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/files/courses/googleanalyticsadvanced.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Google Analytics Advanced - юли 2021"
+        />
+        <span class="course-card-name" title="Google Analytics Advanced - юли 2021">
+            <span class="course-card-name-text">
+                Google Analytics Advanced - юли 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            13 юли 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            5 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3395/content-strategy-july-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/files/courses/content-strategy.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Content Strategy - юли 2021"
+        />
+        <span class="course-card-name" title="Content Strategy - юли 2021">
+            <span class="course-card-name-text">
+                Content Strategy - юли 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            19 юли 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            6 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3404/e-mail-marketing-july-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/Files/Courses/email.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="E-mail Marketing - юли 2021"
+        />
+        <span class="course-card-name" title="E-mail Marketing - юли 2021">
+            <span class="course-card-name-text">
+                E-mail Marketing - юли 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            20 юли 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            3 седмици
+        </span>
+    </a>
+</div>
+
+
+
+
+<div class="course-cards-list-item">
+    <a class="course-card" href="/trainings/3405/google-ads-september-2021">
+        <img
+             class="course-card-image lazy-slide"
+             data-src="/files/courses/Ad-AdWords-1.jpg"
+             data-fallback-src="/content/images/default-images/fast-track/icon.png"
+             alt="Google Ads - септември 2021"
+        />
+        <span class="course-card-name" title="Google Ads - септември 2021">
+            <span class="course-card-name-text">
+                Google Ads - септември 2021
+            </span>
+        </span>
+        <span class="course-card-start-date">
+            <svg width="12" height="12" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+            </svg>
+            07 септември 2021
+        </span>
+        <span class="course-card-duration">
+            <svg width="12" height="12" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.9925 2.38431C4.8525 2.38431 1.5 5.75898 1.5 9.91706C1.5 14.0751 4.8525 17.4498 8.9925 17.4498C13.14 17.4498 16.5 14.0751 16.5 9.91706C16.5 5.75898 13.14 2.38431 8.9925 2.38431ZM9 15.9433C5.685 15.9433 3 13.2465 3 9.91706C3 6.58758 5.685 3.89086 9 3.89086C12.315 3.89086 15 6.58758 15 9.91706C15 13.2465 12.315 15.9433 9 15.9433ZM9.375 6.15068H8.25V10.6703L12.1875 13.0431L12.75 12.1166L9.375 10.1054V6.15068Z" />
+            </svg>
+            4 седмици
+        </span>
+    </a>
+</div>
+
+        </div>
+    </div>
+</div>
+    <div class="page-content-wrapper">
+        <div class="open-course-btn-wrapper">
+            <a class="softuni-btn softuni-btn-outlined see-all-btn" href="/trainings/opencourses">Виж всички</a>
+        </div>
+    </div>
+
+<div class="page-content-wrapper">
+    <div class="news-seminars-initiatives-section">
+        
+<div class="seminars-section">
+    <strong class="h4-like seminars-section-title">
+        Семинари
+    </strong>
+    <div class="seminar-cards">
+
+<a class="seminar-card lazy-seminar-card" href="/events/3412/q-and-a-session-digital" data-bg="url('/Content/images/seminar-card-bg.jpg')">
+    <strong class="seminar-card-title" title="Q&amp;A Session: Всичко, което трябва да знаете преди да кандидадствате за работа">
+        Q&amp;A Session: Всичко, което трябва да знаете преди да кандидадствате за работа
+    </strong>
+    <span class="seminar-card-start-date">
+        <svg width="18" height="18" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+        </svg>
+        <span class="seminar-card-start-date-text">Начало:</span> 27 май 2021 19:00
+    </span>
+</a>
+
+<a class="seminar-card lazy-seminar-card" href="/events/3415/the-role-of-brands-in-the-portfolioof-coca-cola-hbc-how-to-achieve-the-perfect-mix-of-products" data-bg="url('/Content/images/seminar-card-bg.jpg')">
+    <strong class="seminar-card-title" title="Ролята на марките в портфолиото на Кока-Кола ХБК България: Как да постигнем перфектния микс от продукти?">
+        Ролята на марките в портфолиото на Кока-Кола ХБК България: Как да постигнем перфектния микс от продукти?
+    </strong>
+    <span class="seminar-card-start-date">
+        <svg width="18" height="18" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+        </svg>
+        <span class="seminar-card-start-date-text">Начало:</span> 28 май 2021 10:00
+    </span>
+</a>
+
+<a class="seminar-card lazy-seminar-card" href="/events/3414/the-amazon-ecosystem-how-to-advertise-and-sell-effectively" data-bg="url('/Content/images/seminar-card-bg.jpg')">
+    <strong class="seminar-card-title" title="Екосистемата Amazon: как да рекламираме и продаваме успешно">
+        Екосистемата Amazon: как да рекламираме и продаваме успешно
+    </strong>
+    <span class="seminar-card-start-date">
+        <svg width="18" height="18" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M29.1654 48.125L46.6654 35L29.1654 21.875V48.125ZM34.9987 5.83337C18.8987 5.83337 5.83203 18.9 5.83203 35C5.83203 51.1 18.8987 64.1667 34.9987 64.1667C51.0987 64.1667 64.1654 51.1 64.1654 35C64.1654 18.9 51.0987 5.83337 34.9987 5.83337ZM34.9987 58.3334C22.1362 58.3334 11.6654 47.8625 11.6654 35C11.6654 22.1375 22.1362 11.6667 34.9987 11.6667C47.8612 11.6667 58.332 22.1375 58.332 35C58.332 47.8625 47.8612 58.3334 34.9987 58.3334Z" />
+        </svg>
+        <span class="seminar-card-start-date-text">Начало:</span> 03 юни 2021 19:00
+    </span>
+</a>
+    </div>
+    <a class="softuni-btn softuni-btn-outlined seminars-section-btn" href="/Events">Виж всички</a>
+</div>
+
+
+        
+<div class="blogs-section">
+    <strong class="h4-like blog-cards-title">
+        Блог статии
+    </strong>
+    <div class="blog-cards">
+
+
+<a class="blog-card" href="/blog/petar-mladenov-success-story-2021">
+    <div class="blog-card-image-wrapper">
+        <img class="blog-card-image lazy-blog-card-image" data-src="/Files/Publications/2021/04/petar-mladenov-2021_161742294.png" alt="Възможността да откриеш вдъхновение за създаването на собствен бизнес - интервю с Петър Младенов" />
+        <p class="blog-card-summary">
+            <span class="blog-card-summary-text" style="height: 57px;">
+                Петър Младенов е един от успешно завършилите и намерили реализация студенти на SoftUni Digital, който днес споделя с нас своята история!
+            </span>
+        </p>
+    </div>
+    <div class="blog-card-title-wrapper">
+        <strong class="blog-card-title">
+            Възможността да откриеш вдъхновение за създаването на собствен бизнес - интервю с Петър Младенов
+        </strong>
+    </div>
+</a>
+
+
+<a class="blog-card" href="/blog/kaloyan-hristov-success">
+    <div class="blog-card-image-wrapper">
+        <img class="blog-card-image lazy-blog-card-image" data-src="/Files/Publications/2021/05/kaloyansuccess_12464286.png" alt="Добрата, силната цел, онази, която е в сърцето винаги е постижима ако изберем верния път – Калоян Христов" />
+        <p class="blog-card-summary">
+            <span class="blog-card-summary-text" style="height: 57px;">
+                Разбери с какво се занимава Калоян, какво е научил в SoftUni Digital и какво има да ти сподели той за програмата и развиващия се дигитален свят
+            </span>
+        </p>
+    </div>
+    <div class="blog-card-title-wrapper">
+        <strong class="blog-card-title">
+            Добрата, силната цел, онази, която е в сърцето винаги е постижима ако изберем верния път – Калоян Христов
+        </strong>
+    </div>
+</a>
+    </div>
+    <a href="/blog" class="softuni-btn softuni-btn-outlined blogs-section-btn">
+        Виж всички
+    </a>
+</div>
+
+
+        <div class="initiatives-section">
+    <strong class="h4-like initiatives-section-title">
+        Инициативи
+    </strong>
+    <div class="initiative-cards">
+        <div class="initiative-card-slide">
+            <a class="initiative-card initiative-card-yellow" href="https://softuni.bg" target="_blank" title="Software University Initiative">
+                <img class="initiative-card-image lazy-initiative-card-image" data-src="/Content/images/svg-logos/software-university-logo-white.svg" alt="Software University" />
+                <p class="initiative-card-text">
+                    Качествено софтуерно образование и съдействие за кариерен старт
+                </p>
+            </a>
+        </div>
+        <div class="initiative-card-slide">
+            <a class="initiative-card initiative-card-purple" href="https://creative.softuni.bg" target="_blank" title="SoftUni Creative Initiative">
+                <img class="initiative-card-image lazy-initiative-card-image" data-src="/Content/images/svg-logos/creative-logo-white.svg" alt="SoftUni Creative" />
+                <p class="initiative-card-text">
+                    Обучения по дизайн, криейтив и визуализация
+                </p>
+            </a>
+        </div>
+        <div class="initiative-card-slide">
+            <a class="initiative-card initiative-card-blue" href="http://kids.softuni.bg" target="_blank" title="SoftUni Kids Initiative">
+                <img class="initiative-card-image lazy-initiative-card-image" data-src="/Content/images/svg-logos/kids-logo-white.svg" alt="SoftUni Kids" />
+                <p class="initiative-card-text">
+                    Обучения по програмиране за деца от 1-ви до 6-ти клас
+                </p>
+            </a>
+        </div>
+        <div class="initiative-card-slide">
+            <a class="initiative-card initiative-card-light-yellow" href="https://svetlina.softuni.bg" target="_blank" title="SoftUni Svetlina Initiative">
+                <img class="initiative-card-image lazy-initiative-card-image" data-src="/Content/images/svg-logos/light-logo-white.svg" alt="SoftUni Svetlina" />
+                <p class="initiative-card-text">
+                    Първата частна гимназия за дигитални умения в България
+                </p>
+            </a>
+        </div>
+        <div class="initiative-card-slide">
+            <a class="initiative-card initiative-card-orange" href="http://softuni.foundation/" target="_blank" title="SoftUni Foundation Initiative">
+                <img class="initiative-card-image lazy-initiative-card-image" data-src="/Content/images/svg-logos/foundation-logo-white.svg" alt="SoftUni Foundation" />
+                <p class="initiative-card-text">
+                    Oбразователни инициативи за програмиране, ИТ и дигитални умения
+                </p>
+            </a>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+
+
+
+<div class="student-comment-rating-half-star">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none">
+        <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="19">
+            <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+        </mask>
+        <g mask="url(#mask0)">
+            <rect x="10" width="10" height="19" fill="#5E7487" />
+        </g>
+    </svg>
+</div>
+
+<section class="student-comments-section">
+    <div class="page-content-wrapper">
+        <div class="student-comments-slider">
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/gkolev.jpg" alt="Георги Колев" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Георги Колев
+                            </span>
+                            <span class="student-comment-occupation">
+                                B2B &amp; B2C
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Това, което много ме спечели и за което продължавам да говоря, когато стане дума за дигитален маркетинг или СофтУни в частност, е цялостната култура на системно подобряване на лекциите, информацията и програмата като цяло.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/sstoyanova.jpg" alt="Станка Стоянова" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Станка Стоянова
+                            </span>
+                            <span class="student-comment-occupation">
+                                Blogger
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none">
+                                        <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="19">
+                                            <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        </mask>
+                                        <g mask="url(#mask0)">
+                                            <rect x="10" width="10" height="19" fill="#5E7487" />
+                                        </g>
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Най-ценното на цялостната програма е, че ми даде познания за всички звена от дигиталния маркетинг и разкри пред мен нови хоризонти. Придобих нови знания и умения, както и увереност, че мога да се справя и сама с предизвикателствата. Помогна ми да подредя липсващите парченца от пъзела. Не на последно място, срещна ме с нови прекрасни хора, с които успях да създам нови познанства и приятелства.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/apetrova.jpg" alt="Анжелика Петрова" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Анжелика Петрова
+                            </span>
+                            <span class="student-comment-occupation">
+                                Основател на Rockacoca
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Търсих подходяща програма, за да надградя знанията си по дигитален маркетинг. Това е най-мощният инструмент на съвремието. За да сме адекватни в съвременния свят, трябва да го уловим и използваме. Познавам SoftUni и имах предварително доверие в тях, което се оправда.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/vmarkova.jpg" alt="Ваня Маркова" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Ваня Маркова
+                            </span>
+                            <span class="student-comment-occupation">
+                                Digital Marketing Specialist в Social Freaks
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Сега, като се връщам назад и си припомням за периода, в който учех в SoftUni Digital, се сещам как освен да слушам лекции и да пиша домашни, друго не се случваше в живота ми, и това ме удовлетворяваше. Бях много щастлива от средата, в която попаднах, и нямах търпение да започна работа в тази сфера.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/eleonor.jpg" alt="Елеонор Дьо Влижер" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Елеонор Дьо Влижер
+                            </span>
+                            <span class="student-comment-occupation">
+                                Economist
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                За мен завършването на цялостната програма в SoftUni Digital поставя началото на един дълъг и интересен дигитален път, по който искам да вървя. Вече работя върху реализацията на нови онлайн проекти, както и върху онлайн позиционирането на вече съществуващи офлайн такива. Областта е изключително динамична, което води понякога до затваряне на една врата, но отваряне на нови две, затова очаквам животът ми да се променя също така динамично в креативни и ефективни посоки.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/btutunarova.jpg" alt="Бойка Тютюнарова" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Бойка Тютюнарова
+                            </span>
+                            <span class="student-comment-occupation">
+                                PPC спецалист в Netpeak
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none">
+                                        <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="19">
+                                            <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        </mask>
+                                        <g mask="url(#mask0)">
+                                            <rect x="10" width="10" height="19" fill="#5E7487" />
+                                        </g>
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Най-полезен за мен бе SEO модулът. Тогава научих най-много нови неща, беше изключително полезно и интересно. Получих и много допълнителна информация, която понякога ми се налага да използвам и в работата си. Мисля, че наученото от този модул бе най-интересно и любопитно.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/estoilova.jpg" alt="Елица Стоилова" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Елица Стоилова
+                            </span>
+                            <span class="student-comment-occupation">
+                                Основател и CEO на чатбот агенция Umni
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Освен многото нови знания, които получих, най-голямата полза за мен беше know-how за системен подход към маркетинга и неговите връзка и взаимодействие с всички процеси в една компания, като се почне от бизнес канваса. Както Георги Малчев обича да казва, имаше страшно много wow-моменти.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/rstoicheva.jpg" alt="Ралица Стойчева" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Ралица Стойчева
+                            </span>
+                            <span class="student-comment-occupation">
+                                Performance Marketing Expert
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Програмата Softuni Digital дава много добра база от знания в различни области от дигиталния маркетинг. Подходяща е както за “прохождащи” маркетолози, така и за специалисти в конкретна сфера на дейност, защото дава възможност за надграждане и допълнителна специализация. В такава динамична област е от голямо значение винаги да си в крак с новостите и добрите практики. Иначе няма да оцелееш. :)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/gsemkov.jpg" alt="Георги Семков" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Георги Семков
+                            </span>
+                            <span class="student-comment-occupation">
+                                Senior Performance Marketing Specialist
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Цялостната програма ми даде страшно много знания, въпреки че бях записал курса online. Работя в дигитална агенция и цялата информация, която получих в програмата, беше актуална и релевантна, като успях веднага да я приложа. Програмата ми помогна да усъвършенствам познанията си в областта на дигиталния маркетинг и по този начин да давам повече стойност на клиентите, с които работя.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/dmarkov.jpg" alt="Даниел Марков" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Даниел Марков
+                            </span>
+                            <span class="student-comment-occupation">
+                                Junior Performance Marketing Specialist
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Цялостната програма по дигитален маркетинг стартира в много подходящо време за мен. Тогава бях стажант с едноседмичен опит в агенцията за интегриран маркетинг Xplora BG. Най-важното за мен тогава беше да натрупам бързо необходимите знания от практици. Определено съм доволен от всичко, което научих в програмата. Най-вече от курса по E-mail Marketing. Вече преминал през материята на всички курсове, мога смело да препоръчам програмата по дигитален маркетинг на Softuni.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/rchakyrova.jpg" alt="Ралица Чакърова" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Ралица Чакърова
+                            </span>
+                            <span class="student-comment-occupation">
+                                Junior Performance Marketing Specialist
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none">
+                                        <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="19">
+                                            <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        </mask>
+                                        <g mask="url(#mask0)">
+                                            <rect x="10" width="10" height="19" fill="#5E7487" />
+                                        </g>
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Записах цялостната програма на Softuni Digital, защото работя в тази сфера и знам, че човек винаги има нужда да надгражда знанията си. В резултат намерих точно каквото търсех - развитие. За мен курсовете бяха много полезни, особено тези по E-mail Marketing и e-commerce. Открих страшно много нови и полезни неща в тези области, които със сигурност ще ми бъдат от полза в работата. Бих посъветвала всички, които се запишат, да запазят висока мотивация, за да вземат максимума от курса.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/mbozhanska.jpg" alt="Мартина Божанска" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Мартина Божанска
+                            </span>
+                            <span class="student-comment-occupation">
+                                Директор &quot;Маркетинг&quot; на &quot;Metropolitan Hotel - Sofia&quot;
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Това, което ме впечатли в дигиталния маркетинг е, че той дава едни изключително измерими резултати и възможност да таргетираме своите клиенти много точно и конкретно!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/mstefanova.jpg" alt="Мария Стефанова" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Мария Стефанова
+                            </span>
+                            <span class="student-comment-occupation">
+                                Freelancer
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Живеем в дигитална ера и всъщност дигиталният маркетинг е новия вид маркетинг, който в съвсем скорошен бъдещ момент ще измести напълно традиционните форми на маркетинг! Всеки един от курсовете за мен беше полезен, интересен, ангажиращ и ценен. Успях да получа нови полезни знания и да затвърдя полезни умения. Имах възможността да се запозная с изключителни професионалисти в лицето на преподавателите!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/ddinev.jpg" alt="Драгой Динев" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Драгой Динев
+                            </span>
+                            <span class="student-comment-occupation">
+                                Основател и собственик на маркетинг агенция NetON
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Програмата на SoftUni Digital е най-добрата възможност в България да придобиете знания в областта на онлайн маркетинга и рекламата, водена от най-добрите лектори в бранша.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-image-wrapper">
+                            <img class="student-comment-image lazy-student-comment-image" data-src="/Files/UserFiles/ImageGallery/gyalamova.jpg" alt="Гергана Яламова" />
+                        </div>
+                        <div class="student-comment-text-wrapper">
+                            <span class="student-comment-name">
+                                Гергана Яламова
+                            </span>
+                            <span class="student-comment-occupation">
+                                SEO и AdWords в theSEO
+                            </span>
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Всеки модул от програмата на SoftUni Digital беше изключително полезен и допълваше знанията ми, но най-интересен ми беше модула по Content маркетинг, тъй като съдържанието стои в основата на всичко. Цялостната програма по дигитален маркетинг беше всичко, от което имах нужда!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+        </div>
+
+        <div class="student-comments-mobile-slider">
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/gkolev.jpg" alt="Георги Колев" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Георги Колев
+                                </span>
+                                <span class="student-comment-occupation">
+                                    B2B &amp; B2C
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Това, което много ме спечели и за което продължавам да говоря, когато стане дума за дигитален маркетинг или СофтУни в частност, е цялостната култура на системно подобряване на лекциите, информацията и програмата като цяло.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/sstoyanova.jpg" alt="Станка Стоянова" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Станка Стоянова
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Blogger
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none">
+                                        <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="19">
+                                            <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        </mask>
+                                        <g mask="url(#mask0)">
+                                            <rect x="10" width="10" height="19" fill="#5E7487" />
+                                        </g>
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Най-ценното на цялостната програма е, че ми даде познания за всички звена от дигиталния маркетинг и разкри пред мен нови хоризонти. Придобих нови знания и умения, както и увереност, че мога да се справя и сама с предизвикателствата. Помогна ми да подредя липсващите парченца от пъзела. Не на последно място, срещна ме с нови прекрасни хора, с които успях да създам нови познанства и приятелства.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/apetrova.jpg" alt="Анжелика Петрова" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Анжелика Петрова
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Основател на Rockacoca
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Търсих подходяща програма, за да надградя знанията си по дигитален маркетинг. Това е най-мощният инструмент на съвремието. За да сме адекватни в съвременния свят, трябва да го уловим и използваме. Познавам SoftUni и имах предварително доверие в тях, което се оправда.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/vmarkova.jpg" alt="Ваня Маркова" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Ваня Маркова
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Digital Marketing Specialist в Social Freaks
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Сега, като се връщам назад и си припомням за периода, в който учех в SoftUni Digital, се сещам как освен да слушам лекции и да пиша домашни, друго не се случваше в живота ми, и това ме удовлетворяваше. Бях много щастлива от средата, в която попаднах, и нямах търпение да започна работа в тази сфера.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/eleonor.jpg" alt="Елеонор Дьо Влижер" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Елеонор Дьо Влижер
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Economist
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                За мен завършването на цялостната програма в SoftUni Digital поставя началото на един дълъг и интересен дигитален път, по който искам да вървя. Вече работя върху реализацията на нови онлайн проекти, както и върху онлайн позиционирането на вече съществуващи офлайн такива. Областта е изключително динамична, което води понякога до затваряне на една врата, но отваряне на нови две, затова очаквам животът ми да се променя също така динамично в креативни и ефективни посоки.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/btutunarova.jpg" alt="Бойка Тютюнарова" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Бойка Тютюнарова
+                                </span>
+                                <span class="student-comment-occupation">
+                                    PPC спецалист в Netpeak
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none">
+                                        <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="19">
+                                            <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        </mask>
+                                        <g mask="url(#mask0)">
+                                            <rect x="10" width="10" height="19" fill="#5E7487" />
+                                        </g>
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Най-полезен за мен бе SEO модулът. Тогава научих най-много нови неща, беше изключително полезно и интересно. Получих и много допълнителна информация, която понякога ми се налага да използвам и в работата си. Мисля, че наученото от този модул бе най-интересно и любопитно.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/estoilova.jpg" alt="Елица Стоилова" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Елица Стоилова
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Основател и CEO на чатбот агенция Umni
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Освен многото нови знания, които получих, най-голямата полза за мен беше know-how за системен подход към маркетинга и неговите връзка и взаимодействие с всички процеси в една компания, като се почне от бизнес канваса. Както Георги Малчев обича да казва, имаше страшно много wow-моменти.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/rstoicheva.jpg" alt="Ралица Стойчева" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Ралица Стойчева
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Performance Marketing Expert
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Програмата Softuni Digital дава много добра база от знания в различни области от дигиталния маркетинг. Подходяща е както за “прохождащи” маркетолози, така и за специалисти в конкретна сфера на дейност, защото дава възможност за надграждане и допълнителна специализация. В такава динамична област е от голямо значение винаги да си в крак с новостите и добрите практики. Иначе няма да оцелееш. :)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/gsemkov.jpg" alt="Георги Семков" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Георги Семков
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Senior Performance Marketing Specialist
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Цялостната програма ми даде страшно много знания, въпреки че бях записал курса online. Работя в дигитална агенция и цялата информация, която получих в програмата, беше актуална и релевантна, като успях веднага да я приложа. Програмата ми помогна да усъвършенствам познанията си в областта на дигиталния маркетинг и по този начин да давам повече стойност на клиентите, с които работя.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/dmarkov.jpg" alt="Даниел Марков" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Даниел Марков
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Junior Performance Marketing Specialist
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Цялостната програма по дигитален маркетинг стартира в много подходящо време за мен. Тогава бях стажант с едноседмичен опит в агенцията за интегриран маркетинг Xplora BG. Най-важното за мен тогава беше да натрупам бързо необходимите знания от практици. Определено съм доволен от всичко, което научих в програмата. Най-вече от курса по E-mail Marketing. Вече преминал през материята на всички курсове, мога смело да препоръчам програмата по дигитален маркетинг на Softuni.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/rchakyrova.jpg" alt="Ралица Чакърова" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Ралица Чакърова
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Junior Performance Marketing Specialist
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none">
+                                        <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="19">
+                                            <path d="M10 15.27L16.18 19L14.54 11.97L20 7.24L12.81 6.63L10 0L7.19 6.63L0 7.24L5.46 11.97L3.82 19L10 15.27Z" fill="#FC4C50" />
+                                        </mask>
+                                        <g mask="url(#mask0)">
+                                            <rect x="10" width="10" height="19" fill="#5E7487" />
+                                        </g>
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Записах цялостната програма на Softuni Digital, защото работя в тази сфера и знам, че човек винаги има нужда да надгражда знанията си. В резултат намерих точно каквото търсех - развитие. За мен курсовете бяха много полезни, особено тези по E-mail Marketing и e-commerce. Открих страшно много нови и полезни неща в тези области, които със сигурност ще ми бъдат от полза в работата. Бих посъветвала всички, които се запишат, да запазят висока мотивация, за да вземат максимума от курса.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/mbozhanska.jpg" alt="Мартина Божанска" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Мартина Божанска
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Директор &quot;Маркетинг&quot; на &quot;Metropolitan Hotel - Sofia&quot;
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Това, което ме впечатли в дигиталния маркетинг е, че той дава едни изключително измерими резултати и възможност да таргетираме своите клиенти много точно и конкретно!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/mstefanova.jpg" alt="Мария Стефанова" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Мария Стефанова
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Freelancer
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Живеем в дигитална ера и всъщност дигиталният маркетинг е новия вид маркетинг, който в съвсем скорошен бъдещ момент ще измести напълно традиционните форми на маркетинг! Всеки един от курсовете за мен беше полезен, интересен, ангажиращ и ценен. Успях да получа нови полезни знания и да затвърдя полезни умения. Имах възможността да се запозная с изключителни професионалисти в лицето на преподавателите!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/ddinev.jpg" alt="Драгой Динев" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Драгой Динев
+                                </span>
+                                <span class="student-comment-occupation">
+                                    Основател и собственик на маркетинг агенция NetON
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Програмата на SoftUni Digital е най-добрата възможност в България да придобиете знания в областта на онлайн маркетинга и рекламата, водена от най-добрите лектори в бранша.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="student-comment-slide">
+                    <div class="student-comment">
+                        <div class="student-comment-header-wrapper">
+                            <div class="student-comment-image-wrapper">
+                                <img class="student-comment-image lazy-student-comment-image" src="/Files/UserFiles/ImageGallery/gyalamova.jpg" alt="Гергана Яламова" />
+                            </div>
+                            <div class="student-comment-header">
+                                <span class="student-comment-name">
+                                    Гергана Яламова
+                                </span>
+                                <span class="student-comment-occupation">
+                                    SEO и AdWords в theSEO
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="student-comment-text-wrapper">
+                            <div class="student-comment-rating">
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                    <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                </svg>
+                                    <svg class="student-comment-rating-star" xmlns="http://www.w3.org/2000/svg" width="20" height="19" fill="none" viewBox="0 0 20 19">
+                                        <path fill="#FC4C50" d="M10 15.27L16.18 19l-1.64-7.03L20 7.24l-7.19-.61L10 0 7.19 6.63 0 7.24l5.46 4.73L3.82 19 10 15.27z" />
+                                    </svg>
+                            </div>
+                            <p class="student-comment-text">
+                                Всеки модул от програмата на SoftUni Digital беше изключително полезен и допълваше знанията ми, но най-интересен ми беше модула по Content маркетинг, тъй като съдържанието стои в основата на всичко. Цялостната програма по дигитален маркетинг беше всичко, от което имах нужда!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="seo-container redesign-container page-content-wrapper"><section class="seo-text-and-button"><article class="seo-text-container"><section class="nano-content"><article class="seo-text"><header class="seo-text-heading">Ключовата роля на дигиталния маркетинг в съвременния бизнес свят
+                    </header><p class="seo-text-description seo-main-mobile fade-in">В съвременния свят дигиталният маркетинг в значителна степен определя взаимоотношенията между
+                        бизнеса и крайния потребител. Това предопределя популярността на дигиталните маркетингови
+                        специалисти. Особено търсени са тези, които умеят да боравят с инструментите на социалните
+                        медии, да създават качествено онлайн съдържание и са способни да планират и измерят конкретни
+                        резултати. Това е и причината, ние, екипът на SoftUni Digital, да предоставяме качествено,
+                        достъпно и практически насочено обучение по дигитален маркетинг.
+                    </p><p class="seo-text-description second hidden-mobile">Създадохме изцяло обновена програма, с подобрена структура и учебен материал, която ти позволява
+                        да развиеш ключовите си дигитални умения и да натрупаш полезни нови такива.
+                        Това може да е предпоставка за успешно развития ти собствен дигитален бизнес или за обогатяване
+                        на знанията ти в подкрепа на маркетинговата позиция, която заемаш в момента.
+                        В програмата са включени обучения, курсове, видео уроци и лекции по най-важите и актуални
+                        маркетингови направления.
+                        Те дават възможно най-ясна представа за използването на всички дигитални инструменти и тяхната
+                        успешна имплементация в работния процес.
+                        <strong>
+ Разгледай Digital 2.0 - обновената ни цялостна програма по дигитален маркетинг <a class="seo-text-description-link" href="/curriculum">тук</a>!
+ </strong>
+ </p></article><article class="sub-articles" id="sub-articles-seo"><article class="seo-text"><header class="seo-text-heading">Защо е полезно да се изучава дигитален маркетинг?
+                        </header><p class="seo-text-description">Дигиталният маркетинг е една от най-бързо развиващите се сфери в технологичното съвремие, в
+                            което живеем. С всеки следващ ден възникват нови интригуващи апликации, устройства, методи
+                            за комуникация от всяка точка по света. Онлайн маркетингът се превърна в един от най-важните
+                            инструменти за всеки бизнес, който иска да постига максимално добри резултати. В него влизат
+                            множество разнообразни направления, съответно и възможностите за развитие за всеки, който
+                            навлезе в света на онлайн маркетинга, са огромни.
+                        </p><p class="seo-text-description">Все по-засилено се търсят специалисти по дигитален маркетинг, които да раждат нови идеи, да
+                            търсят непрекъснато нови познания и да са в крак с всяка нова тенденция и технология в
+                            областта.
+                        </p></article><article class="seo-text"><header class="seo-text-heading">SoftUni Digital 2.0 - какво ще научите от обновената програма?
+                        </header><p class="seo-text-description">В началото на 2020 г. стартира първия прием на обновената цялостна програма по дигитален
+                            маркетинг SoftUni Digital 2.0. Програмата преминава през три етапа на обучение,
+                            в последния от които имаш възможност да избереш като какъв специалист по дигитален маркетинг
+                            да специализираш. Ето и основните предимства:
+                        </p><ul class="seo-text-list"><li class="seo-text-list-item">Безплатен входящ модул. Той ще ти помогне да придобиеш представа дали светът на
+                                дигиталния маркетинг те привлича и искаш ли да го превърнеш в основно свое занимание.
+                            </li><li class="seo-text-list-item">Придобиваш ключови знания и умения за най-популярните дигитални маркетингови практики.
+                            </li><li class="seo-text-list-item">Заключителният модул е отреден за конкретната дигитална сфера, в която предпочиташ да
+                                специализираш: Social Media Marketing Expert, Performance Marketing Expert, Search
+                                Engine Marketing Expert.
+                            </li></ul><p class="seo-text-description">Научи повече за структурата и съдържанието на изцяло обновената програма по дигитален
+                            маркетинг Digital 2.0 на SoftUni Digital, като последваш
+                            <a class="seo-text-description-link" href="/curriculum">този линк</a>!
+ </p></article><article class="seo-text"><header class="seo-text-heading">Защо да избереш SoftUni Digital за своето обучение по дигитален маркетинг?
+                        </header><p class="seo-text-description">Цялостната програма по дигитален маркетинг на SoftUni Digital предлага качествено, достъпно
+                            и практически насочено обучение, което превръща начинаещите в сферата в готови да
+                            практикуват професионалисти. Ето и още ключови причини, заради които да се спрете на нея:
+                        </p><ul class="seo-text-list"><li class="seo-text-list-item"><strong>Безплатен входящ модул.</strong> Marketing basics ще ви даде стартови познания в
+                                областта на дигиталния маркетинг и с тяхна помощ ще можете да прецените дали желаете да
+                                се усъвършенствате като маркетингов специалист.
+                            </li><li class="seo-text-list-item"><strong>Топ експерти в областта на дигиталния маркетинг.</strong> Материалът се
+                                преподава от специалисти, които вече го прилагат на практика.
+                            </li><li class="seo-text-list-item"><strong>Множество доволни студенти,</strong> които с радост препоръчват програмата.
+                            </li><li class="seo-text-list-item"><strong>Възможности за професионално развитие.</strong> Изградената мрежа от
+                                партньорства на кариерния ни център дава възможност на успешните ни студенти да започнат
+                                работа в сферата на дигиталния маркетинг скоро след като завършат.
+                            </li></ul></article></article></section></article><article class="see-more-seo"><section class="see-more-seo-btn softuni-btn softuni-btn-medium softuni-btn-tertiary" id="see-more-button-seo"><span class="see-more-seo-btn-text">
+ Виж още
+                </span>
+ <span class="fa fas fa-angle-down"></span></section></article></section><article class="seo-images-container"><section class="seo-image-container"><picture><source srcset="/Content/images/home-page/seo-first-img.webp" type="image/webp"></source><img class="seo-image" src="/Content/images/home-page/seo-first-img.png" /></picture>
+ </section><section class="seo-image-container"><picture><source srcset="/Content/images/home-page/seo-second-img.webp" type="image/webp"></source><img class="seo-image" src="/Content/images/home-page/seo-second-img.png" /></picture>
+ </section><section class="seo-image-container"><picture><source srcset="/Content/images/home-page/seo-third-img.webp" type="image/webp"></source><img class="seo-image" src="/Content/images/home-page/seo-third-img.png" /></picture>
+ </section></article></section>
+
+
+        </main>
+
+    
+<footer class="content page-footer" id="page-footer">
+    <div class="redesign-container">
+        <ul class="page-footer-content row no-margin-offset">
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper about-us-container">
+                <strong class="heading list-title">SoftUni Digital</strong>
+                <ul class="footer-list">
+                    <li><a href="/about" class="regular">За нас</a></li>
+                    <li><a href="/curriculum" class="regular">Обучения</a></li>
+                    <li><a href="/certificates" class="regular">Сертификати</a></li>
+                    <li><a href="/trainers" class="regular">Преподаватели</a></li>
+                    <li><a href="/fees" class="regular">Такси</a></li>
+                    <li><a href="/partners" class="regular">Партньори</a></li>
+                    <li><a href="/Files/TermsAndConditions/Terms-and-Conditions.pdf" class="regular">Общи условия</a></li>
+                    <li><a href="/Files/PrivacyPolicy/Privacy-Policy.pdf" class="regular">Лични данни</a></li>
+                    
+                </ul>
+            </li>
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper trainings-container">
+                <strong class="heading list-title">Всички обучения</strong>
+                <ul class="footer-list">
+                    <li>
+                        <a href="/curriculum" class="regular">Курсове</a>
+                    </li>
+                    <li>
+                        <a href="/events" class="regular">Събития</a>
+                    </li>
+                </ul>
+            </li>
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper initiatives-container">
+                <div class="initatives">
+                    <strong class="heading list-title">Всички инициативи</strong>
+                    <ul class="footer-list">
+                        <li>
+                            <a href="https://softuni.bg" title="Software University" class="regular">
+                                Software University
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://creative.softuni.bg" title="SoftUni Creative" class="regular">
+                                SoftUni Creative
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://kids.softuni.bg" title="SoftUni Kids" class="regular">
+                                SoftUni Kids
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://svetlina.softuni.bg" title="SoftUni Svetlina" class="regular">
+                                SoftUni Svetlina
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://softuni.foundation/" title="SoftUni Foundation" class="regular">
+                                SoftUni Foundation
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+
+            <li class="col-md-3 col-sm-12 col-xs-12 footer-list-wrapper social-icons-container">
+                <strong class="heading list-title">Намерете ни</strong>
+                <ul class="social">
+                    <li class="social-icon">
+                        <a href="https://www.facebook.com/SoftUniDigital/" target="_blank" title="SoftUni Digital Facebook" class="icon-btn">
+                            <span class="facebook-icon"></span>
+                        </a>
+                    </li>
+                    <li class="social-icon">
+                        <a href="https://www.instagram.com/softunidigital/" target="_blank" title="SoftUni Digital Instagram" class="icon-btn">
+                            <span class="instagram-icon"></span>
+                        </a>
+                    </li>
+                    <li class="social-icon">
+                        <a href="https://twitter.com/SoftuniDigital" target="_blank" title="SoftUni Digital Twitter" class="icon-btn">
+                            <span class="twitter-icon"></span>
+                        </a>
+                    </li>
+                    <li class="social-icon">
+                        <a href="https://www.youtube.com/channel/UCJQAGQMZojegG8qhVuBk0vQ" target="_blank" title="SoftUni Digital Youtube" class="icon-btn">
+                            <span class="youtube-icon"></span>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+        <div class="all-rights-reserved">
+            <p class="regular">
+                © 2017-2021 SoftUni Digital. All Rights Reserved.
+            </p>
+        </div>
+    </div>
+</footer>
+
+<script src="/bundles/redesign-base-vendor?v=41GfwfnS7rM3CdlaQQdPQK_TFUxuhYoUvy9GobelQU41"></script>
+<script src="/bundles/redesign-base?v=jNU9CF14928sunVwzxsKpD9VTxB5fp-SjqQGZZTxXm01"></script>
+
+    <a href="#" class="scroll-to-top-btn" id="scroll-to-top-btn">
+</a>
+
+
+    
+    <script src="/bundles/home?v=DZfxk5yYvpCAaEvIc-bn4S9NBvF0HyfUFTP1JLy8_VE1"></script>
+
+
+        <script>
+            new LazyLoad({
+                elements_selector: ".header-section-wrapper-lazy",
+                data_bg: 'bg'
+            });
+        </script>
+
+    <script src="/Scripts/common/my-collapsible.js" defer></script>
+
+    
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "url": "https://digital.softuni.bg/",
+    "logo": "https://digital.softuni.bg/Content/images/svg-logos/digital-logo-white.svg"
+    }
+</script>
+
+
+<script type="application/ld+json">
+    {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "SoftUni Digital",
+    "url" : "http://www.digital.softuni.bg",
+    "sameAs" : [
+    "https://www.facebook.com/SoftUniDigital/",
+    "https://www.youtube.com/channel/UCJQAGQMZojegG8qhVuBk0vQ",
+    "https://plus.google.com/u/1/103476796838984385551/about",
+    "https://www.instagram.com/softunidigital/",
+    "https://twitter.com/softunidigital"
+    ]
+    }
+</script>
+
+</body>
+</html>
