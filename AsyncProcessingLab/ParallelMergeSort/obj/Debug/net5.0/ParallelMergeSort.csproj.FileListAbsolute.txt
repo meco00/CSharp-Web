@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\bin\Debug\net5.0\ParallelMergeSort.exe
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\bin\Debug\net5.0\ParallelMergeSort.deps.json
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\bin\Debug\net5.0\ParallelMergeSort.runtimeconfig.json
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\bin\Debug\net5.0\ParallelMergeSort.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\bin\Debug\net5.0\ParallelMergeSort.dll
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\bin\Debug\net5.0\ref\ParallelMergeSort.dll
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\bin\Debug\net5.0\ParallelMergeSort.pdb
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\obj\Debug\net5.0\ParallelMergeSort.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\obj\Debug\net5.0\ParallelMergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\obj\Debug\net5.0\ParallelMergeSort.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\obj\Debug\net5.0\ParallelMergeSort.AssemblyInfo.cs
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\obj\Debug\net5.0\ParallelMergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\obj\Debug\net5.0\ParallelMergeSort.dll
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\obj\Debug\net5.0\ref\ParallelMergeSort.dll
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\obj\Debug\net5.0\ParallelMergeSort.pdb
+C:\Users\Mert\source\repos\AsyncProcessingLab\ParallelMergeSort\obj\Debug\net5.0\ParallelMergeSort.genruntimeconfig.cache

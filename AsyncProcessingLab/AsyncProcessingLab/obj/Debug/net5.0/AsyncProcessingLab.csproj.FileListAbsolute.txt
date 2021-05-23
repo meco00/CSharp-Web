@@ -1,0 +1,16 @@
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\bin\Debug\net5.0\AsyncProcessingLab.exe
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\bin\Debug\net5.0\AsyncProcessingLab.deps.json
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\bin\Debug\net5.0\AsyncProcessingLab.runtimeconfig.json
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\bin\Debug\net5.0\AsyncProcessingLab.runtimeconfig.dev.json
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\bin\Debug\net5.0\AsyncProcessingLab.dll
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\bin\Debug\net5.0\ref\AsyncProcessingLab.dll
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\bin\Debug\net5.0\AsyncProcessingLab.pdb
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\obj\Debug\net5.0\AsyncProcessingLab.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\obj\Debug\net5.0\AsyncProcessingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\obj\Debug\net5.0\AsyncProcessingLab.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\obj\Debug\net5.0\AsyncProcessingLab.AssemblyInfo.cs
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\obj\Debug\net5.0\AsyncProcessingLab.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\obj\Debug\net5.0\AsyncProcessingLab.dll
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\obj\Debug\net5.0\ref\AsyncProcessingLab.dll
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\obj\Debug\net5.0\AsyncProcessingLab.pdb
+C:\Users\Mert\source\repos\AsyncProcessingLab\AsyncProcessingLab\obj\Debug\net5.0\AsyncProcessingLab.genruntimeconfig.cache
