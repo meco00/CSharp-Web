@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FirstWorkshop/1.0.0": {
+        "dependencies": {
+          "FirstWorkshop.Server": "1.0.0"
+        },
+        "runtime": {
+          "FirstWorkshop.dll": {}
+        }
+      },
+      "FirstWorkshop.Server/1.0.0": {
+        "runtime": {
+          "FirstWorkshop.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstWorkshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FirstWorkshop.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

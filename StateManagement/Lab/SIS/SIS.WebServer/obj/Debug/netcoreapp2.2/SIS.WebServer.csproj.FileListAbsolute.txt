@@ -1,0 +1,12 @@
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.WebServer.deps.json
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.WebServer.dll
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.WebServer.pdb
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.HTTP.dll
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.csprojAssemblyReference.cache
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.AssemblyInfoInputs.cache
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.AssemblyInfo.cs
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.csproj.CoreCompileInputs.cache
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.csproj.CopyComplete
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.dll
+D:\Нова папка\softuni\Web\Solutions\SIS\SIS.WebServer\obj\Debug\netcoreapp2.2\SIS.WebServer.pdb

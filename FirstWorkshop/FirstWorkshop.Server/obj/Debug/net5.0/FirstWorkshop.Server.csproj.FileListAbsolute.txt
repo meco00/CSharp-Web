@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\bin\Debug\net5.0\FirstWorkshop.Server.deps.json
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\bin\Debug\net5.0\FirstWorkshop.Server.dll
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\bin\Debug\net5.0\ref\FirstWorkshop.Server.dll
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\bin\Debug\net5.0\FirstWorkshop.Server.pdb
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\obj\Debug\net5.0\FirstWorkshop.Server.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\obj\Debug\net5.0\FirstWorkshop.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\obj\Debug\net5.0\FirstWorkshop.Server.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\obj\Debug\net5.0\FirstWorkshop.Server.AssemblyInfo.cs
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\obj\Debug\net5.0\FirstWorkshop.Server.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\obj\Debug\net5.0\FirstWorkshop.Server.dll
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\obj\Debug\net5.0\ref\FirstWorkshop.Server.dll
+C:\Users\Mert\source\repos\FirstWorkshop\FirstWorkshop.Server\obj\Debug\net5.0\FirstWorkshop.Server.pdb
