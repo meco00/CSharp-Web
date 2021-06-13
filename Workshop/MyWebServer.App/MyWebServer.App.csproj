@@ -9,6 +9,36 @@
     <ProjectReference Include="..\MyWebServer\MyWebServer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="Views\**\*.*">
+      <CopyToOutputDirectory>Preserver Newest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Animals\Turtles.cshtml" />
+    <None Remove="Views\Animals\Wild\Cats.cshtml" />
+    <None Remove="Views\Animals\Wild\Rabbit.cshtml" />
+    <None Remove="Views\Cats\CreateCat.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Views\Animals\Dogs.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="Views\Animals\Rabbit.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="Views\Animals\Wild\Cats.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="Views\Animals\Wild\Turtles.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="Views\Cats\CreateCat.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
       
 
 

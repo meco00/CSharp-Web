@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "73CP+vuLfjps/U5a2Tk2zEkbYcfHYuAn2dRwJ6YpF+egNBXBRtc2mBzQtMWOFWaRnUH5D2C67dLldJvynAckrg==",
+  "dgSpecHash": "x5c0dmXtEjXuaS3jdwqN8smX1SDcugyqyCU1cugiOO0zlJFbbul1T+7ljoNOeS7ny5GIYsu1c/rUA3CsmyQT4Q==",
   "success": true,
-  "projectFilePath": "D:\\Нова папка\\softuni\\Web\\WebRepo\\MvcIntroduction\\Workshop\\MyWebServer\\MyWebServer.csproj",
+  "projectFilePath": "D:\\Нова папка\\softuni\\Web\\WebRepo\\Workshop\\MyWebServer\\MyWebServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

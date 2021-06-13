@@ -21,3 +21,15 @@ D:\Нова папка\softuni\Web\WebRepo\MvcIntroduction\Workshop\MyWebServer\
 D:\Нова папка\softuni\Web\WebRepo\MvcIntroduction\Workshop\MyWebServer\obj\Debug\net5.0\MyWebServer.dll
 D:\Нова папка\softuni\Web\WebRepo\MvcIntroduction\Workshop\MyWebServer\obj\Debug\net5.0\ref\MyWebServer.dll
 D:\Нова папка\softuni\Web\WebRepo\MvcIntroduction\Workshop\MyWebServer\obj\Debug\net5.0\MyWebServer.pdb
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\bin\Debug\net5.0\MyWebServer.deps.json
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\bin\Debug\net5.0\MyWebServer.dll
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\bin\Debug\net5.0\ref\MyWebServer.dll
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\bin\Debug\net5.0\MyWebServer.pdb
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\obj\Debug\net5.0\MyWebServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfoInputs.cache
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\obj\Debug\net5.0\MyWebServer.AssemblyInfo.cs
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.CoreCompileInputs.cache
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\obj\Debug\net5.0\MyWebServer.dll
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\obj\Debug\net5.0\ref\MyWebServer.dll
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\obj\Debug\net5.0\MyWebServer.pdb
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer\obj\Debug\net5.0\MyWebServer.csproj.AssemblyReference.cache

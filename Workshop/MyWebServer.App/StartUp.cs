@@ -21,7 +21,11 @@ namespace MyWebServer.App
                      .MapGet<HomeController>("/ToYoutube",c=>c.ToYoutube())
                      .MapGet<HomeController>("/ToCats",c=>c.LocalRedirect())
                       .MapGet<AnimalsController>("/Cats", c=>c.Cats())
-                      .MapGet<AnimalsController>("/Dogs",c=>c.Dogs()))
+                      .MapGet<AnimalsController>("/Dogs",c=>c.Dogs())
+                      .MapGet<AnimalsController>("/Turtles",c=>c.Turtles())
+                      .MapGet<AnimalsController>("/Bunnies",c=>c.Bunnies())
+                      .MapGet<CatsController>("/Cats/Save",c=>c.Save())
+                      .MapGet<CatsController>("/Cats/Create",c=>c.CreateCat()))
               .Start();
 
 

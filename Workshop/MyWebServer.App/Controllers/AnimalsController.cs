@@ -1,4 +1,5 @@
 ﻿
+using MyWebServer.App.Models.Animals;
 using MyWebServer.Http;
 using MyWebServer.Responses;
 using System;
@@ -22,20 +23,34 @@ namespace MyWebServer.App.Controllers
         public HttpResponse Cats()
         {
             const string nameKey = "Name";
+            const string ageKey = "Age";
             var query = this.Request.Query;
 
-            var catName = query.ContainsKey(nameKey) ? query[nameKey] : "Cats";
+            var catName = 
+                query.ContainsKey(nameKey) ? query[nameKey] : "Cat";
 
-            var result = $"<h1>Hello from {catName}</h1>";
+            var catAge = query.ContainsKey(ageKey) ? int.Parse(query[ageKey]) : 0;
 
 
+            var catVM = new CatViewModel()
+            {
+                Name = catName,
+                Age = catAge
+            };
 
-            return new HtmlResponse(result);
+
+            return View(catVM,"Animals/Wild/Cats");
 
             
         }
-
+      
         public HttpResponse Dogs()
-            => new HtmlResponse("<h1>Hello from Dogs!</h1>");
+            =>  View();
+        
+        public HttpResponse Bunnies()
+            =>  View("Rabbit");
+
+        public HttpResponse Turtles()
+           => View("Animals/Wild/Turtles");
     }
 }
