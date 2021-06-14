@@ -1,5 +1,5 @@
 ﻿using MyWebServer.Http;
-using MyWebServer.Responses;
+using MyWebServer.Results;
 using System;
 
 
@@ -11,18 +11,18 @@ namespace MyWebServer.App.Controllers
         {
         }
 
-        public HttpResponse Index()
+        public ActionResult Index()
         => Text("Hello from Meco!");
 
 
-        public HttpResponse ToSoftUni()
+        public ActionResult ToSoftUni()
             => Redirect("https://softuni.bg/");
 
-        public HttpResponse LocalRedirect()
+        public ActionResult LocalRedirect()
            => Redirect("/Cats");
 
 
-        public HttpResponse ToYoutube()
+        public ActionResult ToYoutube()
      => Redirect("https://www.youtube.com/");
     }
 }

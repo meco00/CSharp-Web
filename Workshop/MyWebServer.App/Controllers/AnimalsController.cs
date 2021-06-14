@@ -1,7 +1,7 @@
 ﻿
 using MyWebServer.App.Models.Animals;
 using MyWebServer.Http;
-using MyWebServer.Responses;
+using MyWebServer.Results;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +20,7 @@ namespace MyWebServer.App.Controllers
 
         }
 
-        public HttpResponse Cats()
+        public ActionResult Cats()
         {
             const string nameKey = "Name";
             const string ageKey = "Age";
@@ -44,7 +44,7 @@ namespace MyWebServer.App.Controllers
             
         }
       
-        public HttpResponse Dogs()
+        public ActionResult Dogs()
             =>  View(new DogViewModel 
             { 
                 Name="Bobi",
@@ -52,10 +52,10 @@ namespace MyWebServer.App.Controllers
                 Bread="German shapered"
             });
         
-        public HttpResponse Bunnies()
+        public ActionResult Bunnies()
             =>  View("Rabbit");
 
-        public HttpResponse Turtles()
+        public ActionResult Turtles()
            => View("Animals/Wild/Turtles");
     }
 }

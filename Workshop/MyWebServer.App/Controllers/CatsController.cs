@@ -1,4 +1,5 @@
 ﻿using MyWebServer.Http;
+using MyWebServer.Results;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,10 +15,10 @@ namespace MyWebServer.App.Controllers
         {
         }
 
-        public HttpResponse CreateCat()
+        public ActionResult CreateCat()
             => View();
 
-        public HttpResponse Save()
+        public ActionResult Save()
         {
             var name = this.Request.Form["Name"];
             var age = this.Request.Form["Age"];

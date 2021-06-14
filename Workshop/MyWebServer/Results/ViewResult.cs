@@ -3,15 +3,20 @@ using System;
 using System.IO;
 using System.Linq;
 
-namespace MyWebServer.Responses
+namespace MyWebServer.Results
 {
-    public class ViewResponse : HttpResponse
+    public class ViewResult : ActionResult
     {
         private const char PathSeparator = '/';
 
-        public ViewResponse(string viewName,string controllerName,object model) 
-            : base(HttpStatusCode.Ok)
+        public ViewResult(
+            HttpResponse response,
+            string viewName,
+            string controllerName,
+            object model) 
+            : base(response)
         {
+            
             this.GetHtml(viewName,controllerName,model);
         }
 

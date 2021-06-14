@@ -1,6 +1,6 @@
 ﻿using MyWebServer.App;
 using MyWebServer.App.Controllers;
-using MyWebServer.Responses;
+using MyWebServer.Results;
 using System;
 using System.Net;
 using System.Net.Sockets;
@@ -24,6 +24,7 @@ namespace MyWebServer.App
                       .MapGet<AnimalsController>("/Dogs",c=>c.Dogs())
                       .MapGet<AnimalsController>("/Turtles",c=>c.Turtles())
                       .MapGet<AnimalsController>("/Bunnies",c=>c.Bunnies())
+                    .MapGet<AccountController>("/Cookies",c=>c.ActionWithCookies())
                       .MapGet<CatsController>("/Cats/Save",c=>c.Save())
                       .MapGet<CatsController>("/Cats/Create",c=>c.CreateCat()))
               .Start();

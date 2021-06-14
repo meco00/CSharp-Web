@@ -1,5 +1,5 @@
 ﻿using MyWebServer.Http;
-using MyWebServer.Responses;
+using MyWebServer.Results;
 using MyWebServer.Routing;
 using System;
 using System.Net;
