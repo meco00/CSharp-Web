@@ -6,6 +6,12 @@
 
     public class HttpRequest
     {
+
+
+        private static Dictionary<string, HttpSession> Sessions 
+            = new Dictionary<string, HttpSession>();
+
+
         private const string NewLine = "\r\n";
 
         public HttpMethod Method { get; private set; }
@@ -14,48 +20,60 @@
 
         public IReadOnlyDictionary<string, string> Query { get; private set; }
 
-        public IReadOnlyDictionary<string,string> Form { get; private set; }
+        public IReadOnlyDictionary<string,HttpCookie> Cookies { get; private set; }
 
         public IReadOnlyDictionary<string,HttpHeader> Headers { get; private set; }
 
-        public IReadOnlyDictionary<string,HttpCookie> Cookies { get; private set; }
+        public IReadOnlyDictionary<string,string> Form { get; private set; }
 
         public string Body { get; private set; }
 
+        public HttpSession Session { get; private set; }
+
+
         public static HttpRequest Parse(string request)
         {
-            var lines = request.Split(NewLine);
+          var lines = request.Split(NewLine);
 
-            var startLine = lines.First().Split(" ");
+          var startLine = lines.First().Split(" ");
 
-            var method = ParseMethod(startLine[0]);
-            var url = startLine[1];
+          var method = ParseMethod(startLine[0]);
+          var url = startLine[1];
 
-            var (path, query) = ParseUrl(url);
+          var (path, query) = ParseUrl(url);
 
-            var headers = ParseHeaders(lines.Skip(1));
+          var headers = ParseHeaders(lines.Skip(1));
 
-            var cookies = ParseCookies(headers);
+          var cookies = ParseCookies(headers);
 
-            var bodyLines = lines.Skip(headers.Count + 2).ToArray();
+          var session = GetSession(cookies);
 
-            var body = string.Join(NewLine, bodyLines);
+          var bodyLines = lines.Skip(headers.Count + 2).ToArray();
 
-            var form = ParseForm(headers,body);
+          var body = string.Join(NewLine, bodyLines);
 
-            return new HttpRequest
-            {
-                Method = method,
-                Path = path,
-                Query = query,
-                Headers = headers,
-                Cookies = cookies,
-                Body = body,
-                Form=form
-            };
+          var form = ParseForm(headers, body);
+
+          return new HttpRequest
+          {
+              Method = method,
+              Path = path,
+              Query = query,
+              Headers = headers,
+              Cookies = cookies,
+              Session = session,
+              Body = body,
+              Form = form
+          };
+         
+         
         }
 
-       
+        public override string ToString()
+        {
+            //TODO:
+            return base.ToString();
+        }
 
         private static HttpMethod ParseMethod(string method)
             => method.ToUpper() switch
@@ -64,7 +82,7 @@
                 "POST" => HttpMethod.Post,
                 "PUT" => HttpMethod.Put,
                 "DELETE" => HttpMethod.Delete,
-                _ => throw new InvalidOperationException($"Method '{method}' is not supported."),
+                _ => throw new InvalidOperationException($"Method {method} is not supported")
             };
 
         private static (string, Dictionary<string, string>) ParseUrl(string url)
@@ -111,6 +129,22 @@
             }
 
             return headerCollection;
+        }
+
+        private static HttpSession GetSession(Dictionary<string, HttpCookie> cookies)
+        {
+            var sessionId = cookies.ContainsKey(HttpSession.SessionCookieName)
+                ? cookies[HttpSession.SessionCookieName].Value
+                : Guid.NewGuid().ToString();
+
+            if (!Sessions.ContainsKey(sessionId))
+            {
+
+                Sessions[sessionId] = new HttpSession(sessionId);
+               
+            }
+
+            return Sessions[sessionId];
         }
 
         private static Dictionary<string,HttpCookie> ParseCookies(Dictionary<string, HttpHeader> headers)

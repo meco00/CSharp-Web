@@ -20,11 +20,13 @@ namespace MyWebServer.App
                      .MapGet<HomeController>("/Softuni",c=>c.ToSoftUni())
                      .MapGet<HomeController>("/ToYoutube",c=>c.ToYoutube())
                      .MapGet<HomeController>("/ToCats",c=>c.LocalRedirect())
+                     .MapGet<HomeController>("/Error",c=>c.Error())
                       .MapGet<AnimalsController>("/Cats", c=>c.Cats())
                       .MapGet<AnimalsController>("/Dogs",c=>c.Dogs())
                       .MapGet<AnimalsController>("/Turtles",c=>c.Turtles())
                       .MapGet<AnimalsController>("/Bunnies",c=>c.Bunnies())
                     .MapGet<AccountController>("/Cookies",c=>c.ActionWithCookies())
+                    .MapGet<AccountController>("/Sessions",c=>c.ActionWithSession())
                       .MapGet<CatsController>("/Cats/Save",c=>c.Save())
                       .MapGet<CatsController>("/Cats/Create",c=>c.CreateCat()))
               .Start();

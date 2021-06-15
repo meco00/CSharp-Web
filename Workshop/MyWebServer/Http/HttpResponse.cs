@@ -74,7 +74,11 @@ namespace MyWebServer.Http
 
         }
 
-        protected void PrepareContent(string content,string contentType)
+        public static HttpResponse ForError(string message)
+            => new HttpResponse(HttpStatusCode.InternalServerError)
+                .PrepareContent(message, HttpContentType.PlainText);
+
+        protected HttpResponse PrepareContent(string content,string contentType)
         {
             Guard.AgainstNull(content, nameof(content));
             Guard.AgainstNull(contentType, nameof(contentType));
@@ -85,6 +89,8 @@ namespace MyWebServer.Http
             this.AddHeader(HttpHeader.ContentLength, contentLength);
 
             this.Content = content;
+
+            return this;
         }
     }
 }

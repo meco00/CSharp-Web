@@ -24,5 +24,8 @@ namespace MyWebServer.App.Controllers
 
         public ActionResult ToYoutube()
      => Redirect("https://www.youtube.com/");
+
+        public HttpResponse Error()
+            => throw new InvalidOperationException();
     }
 }
