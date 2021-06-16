@@ -62,32 +62,39 @@ namespace MyWebServer
 
             while (true)
             {
-                ;
+                
                 var connection = await listener.AcceptTcpClientAsync();
 
-                var networkStream = connection.GetStream();
-
-                var requestText = await ReadRequest(networkStream);
-
-                try
+                _=Task.Run(async()=>
                 {
-                    var request = HttpRequest.Parse(requestText);
 
-                    var response = this.routingTable.ExecuteRequest(request);
+                    var networkStream = connection.GetStream();
 
-                    this.PrepareSessions(request, response);
+                    var requestText = await ReadRequest(networkStream);
 
-                    this.LogPipeLine(request, response);
+                    try
+                    {
+                        var request = HttpRequest.Parse(requestText);
 
-                    await WriteResponse(networkStream, response);
-                }
-                catch (Exception exception)
-                {
-                    
-                    
-                   await HandleError(networkStream,exception);
-                   
-                }
+                        var response = this.routingTable.ExecuteRequest(request);
+
+                       this.PrepareSessions(request, response);
+
+                        this.LogPipeLine(requestText, response.ToString());
+
+                        await WriteResponse(networkStream, response);
+                    }
+                    catch (Exception exception)
+                    {
+
+
+                        await HandleError(networkStream, exception);
+
+                    }
+
+
+                    connection.Close();
+                });
 
                 
 
@@ -96,7 +103,6 @@ namespace MyWebServer
               
 
 
-                connection.Close();
             }
 
             
@@ -133,7 +139,7 @@ namespace MyWebServer
 
 
         private void PrepareSessions(HttpRequest request,HttpResponse response)
-        => response.AddCookie(HttpSession.SessionCookieName, request.Session.Id);
+        => response.Cookies.Add(HttpSession.SessionCookieName, request.Session.Id);
         
         private async Task HandleError(NetworkStream networkStream, Exception exception)
         {
@@ -144,7 +150,7 @@ namespace MyWebServer
             await WriteResponse(networkStream, errorResponse);
         }
 
-        private void LogPipeLine(HttpRequest request, HttpResponse response)
+        private void LogPipeLine(string request, string response)
         {
             var seperator = new string ( '-', 50 );
 
@@ -154,12 +160,12 @@ namespace MyWebServer
             log.AppendLine(seperator);
 
             log.AppendLine("REQUEST:");
-            log.AppendLine(request.ToString());
+            log.AppendLine(request);
 
             log.AppendLine();
 
             log.AppendLine("RESPONSE:");
-            log.AppendLine(response.ToString());
+            log.AppendLine(response);
 
             Console.WriteLine(log);
         }
@@ -171,6 +177,11 @@ namespace MyWebServer
             var responseBytes = Encoding.UTF8.GetBytes(response.ToString());
 
             await networkStream.WriteAsync(responseBytes);
+
+            if (response.HasContent)
+            {
+                await networkStream.WriteAsync(response.Content);
+            }
 
         }
     }

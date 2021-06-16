@@ -28,6 +28,9 @@ namespace MyWebServer.Http
             set => this.data[key] = value;
         }
 
+        public bool Remove(string key)
+            => this.data.Remove(key);
+
         public int Count 
         => this.data.Count;
 

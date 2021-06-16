@@ -1,4 +1,5 @@
 ﻿using MyWebServer.Http;
+using MyWebServer.Http.Collections;
 using System.Collections.Generic;
 
 namespace MyWebServer.Results
@@ -18,21 +19,19 @@ namespace MyWebServer.Results
 
         
 
-        private void PrepareHeaders(IDictionary<string,HttpHeader> headers)
+        private void PrepareHeaders(HeaderCollection headers)
         {
-            foreach (var (_,header) in headers)
+            foreach (var header in headers)
             {
-                this.AddHeader(header.Name, header.Value);
-
-
+                this.Headers.Add(header.Name, header.Value);
             }
         }
 
-        private void PrepareCookies(IDictionary<string, HttpCookie> cookies)
+        private void PrepareCookies(CookieCollection cookies)
         {
-            foreach (var (_,cookie) in cookies)
+            foreach (var cookie in cookies)
             {
-                this.AddCookie(cookie.Name, cookie.Value);
+                this.Cookies.Add(cookie.Name, cookie.Value);
             }
         }
     }

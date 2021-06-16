@@ -1,8 +1,10 @@
 ﻿namespace MyWebServer.Http
 {
+    using MyWebServer.Http.Collections;
     using System;
     using System.Collections.Generic;
     using System.Linq;
+    using System.Text;
 
     public class HttpRequest
     {
@@ -18,13 +20,13 @@
 
         public string Path { get; private set; }
 
-        public IReadOnlyDictionary<string, string> Query { get; private set; }
+        public QueryCollection Query { get; private set; }
 
-        public IReadOnlyDictionary<string,HttpCookie> Cookies { get; private set; }
+        public CookieCollection Cookies { get; private set; }
 
-        public IReadOnlyDictionary<string,HttpHeader> Headers { get; private set; }
+        public HeaderCollection Headers { get; private set; }
 
-        public IReadOnlyDictionary<string,string> Form { get; private set; }
+        public FormCollection Form { get; private set; }
 
         public string Body { get; private set; }
 
@@ -69,11 +71,6 @@
          
         }
 
-        public override string ToString()
-        {
-            //TODO:
-            return base.ToString();
-        }
 
         private static HttpMethod ParseMethod(string method)
             => method.ToUpper() switch
@@ -85,28 +82,37 @@
                 _ => throw new InvalidOperationException($"Method {method} is not supported")
             };
 
-        private static (string, Dictionary<string, string>) ParseUrl(string url)
+        private static (string, QueryCollection) ParseUrl(string url)
         {
+            var query = new QueryCollection();
+
             var urlParts = url.Split('?', 2);
 
             var path = urlParts[0];
-            var query = urlParts.Length > 1
-                ? ParseQuery(urlParts[1])
-                : new Dictionary<string, string>();
+
+            if (urlParts.Length>1)
+            {
+                ParseQuery(urlParts[1])
+                    .ToList()
+                    .ForEach(part => query.Add(part.Key, part.Value));
+
+            }
+
+            
 
             return (path, query);
         }
 
-        private static Dictionary<string, string> ParseQuery(string queryString)
+        private static Dictionary<string,string> ParseQuery(string queryString)
             => queryString
                 .Split('&')
                 .Select(part => part.Split('='))
                 .Where(part => part.Length == 2)
                 .ToDictionary(part => part[0], part => part[1]);
 
-        private static Dictionary<string,HttpHeader> ParseHeaders(IEnumerable<string> headerLines)
+        private static HeaderCollection ParseHeaders(IEnumerable<string> headerLines)
         {
-            var headerCollection = new Dictionary<string,HttpHeader>();
+            var headerCollection = new HeaderCollection();
 
             foreach (var headerLine in headerLines)
             {
@@ -125,16 +131,16 @@
                 var headerName = headerParts[0];
                 var headerValue = headerParts[1].Trim();
 
-                headerCollection.Add(headerName, new HttpHeader(headerName,headerValue));
+                headerCollection.Add(headerName, headerValue);
             }
 
             return headerCollection;
         }
 
-        private static HttpSession GetSession(Dictionary<string, HttpCookie> cookies)
+        private static HttpSession GetSession(CookieCollection cookies)
         {
-            var sessionId = cookies.ContainsKey(HttpSession.SessionCookieName)
-                ? cookies[HttpSession.SessionCookieName].Value
+            var sessionId = cookies.Contains(HttpSession.SessionCookieName)
+                ? cookies[HttpSession.SessionCookieName]
                 : Guid.NewGuid().ToString();
 
             if (!Sessions.ContainsKey(sessionId))
@@ -147,48 +153,48 @@
             return Sessions[sessionId];
         }
 
-        private static Dictionary<string,HttpCookie> ParseCookies(Dictionary<string, HttpHeader> headers)
+        private static CookieCollection ParseCookies(HeaderCollection headers)
         {
-            var cookieCollection = new Dictionary<string, HttpCookie>();
+            var cookieCollection = new CookieCollection();
 
-            if (headers.ContainsKey(HttpHeader.Cookie))
+            if (headers.Contains(HttpHeader.Cookie))
             {
                 var cookieHeader = headers[HttpHeader.Cookie];
 
-             cookieHeader
-                  .Value
-                  .Split(';')
-                  .Select(c=>c.Split('='))
-                  .ToDictionary(part=>part[0].Trim(),part=>part[1].Trim())
-                  .ToList()
-                  .ForEach(x=> cookieCollection.Add(x.Key,new HttpCookie(x.Key,x.Value)));
-                   
+                var allCookies = cookieHeader.Split(';');
 
-                //foreach (var cookie in allCookies)
-                //{
-                //    var cookieParts = cookie.Split('=');
+                foreach (var cookieText in allCookies)
+                {
+                    var cookieParts = cookieText.Split('=');
 
-                //    var cookieName = cookieParts[0].Trim();
-                //    var cookieValue = cookieParts[1].Trim();
+                    var cookieName = cookieParts[0].Trim();
+                    var cookieValue = cookieParts[1].Trim();
 
-                //    cookieCollection.Add(cookieName, new HttpCookie(cookieName, cookieValue));
-                //}
+                    cookieCollection.Add(cookieName, cookieValue);
+                }
+
+
+
             }
 
             return cookieCollection;
         }
 
-        private static Dictionary<string,string> ParseForm(Dictionary<string,HttpHeader> headers, string body)
+        private static FormCollection ParseForm(HeaderCollection headers, string body)
         {
-            var result = new Dictionary<string, string>();
+            var result = new FormCollection();
 
-            if (headers.ContainsKey(HttpHeader.ContentType)
-                &&headers[HttpHeader.ContentType].Value == HttpContentType.UrlEncoded)
+            if (headers.Contains(HttpHeader.ContentType)
+                &&headers[HttpHeader.ContentType] == HttpContentType.UrlEncoded)
             {
-                result = ParseQuery(body);
+                ParseQuery(body)
+                    .ToList()
+                    .ForEach(x=> result.Add(x.Key,x.Value));
             }
 
             return result;
         }
+
+       
     }
 }

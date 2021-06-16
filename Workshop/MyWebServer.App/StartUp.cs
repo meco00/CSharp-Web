@@ -25,9 +25,13 @@ namespace MyWebServer.App
                       .MapGet<AnimalsController>("/Dogs",c=>c.Dogs())
                       .MapGet<AnimalsController>("/Turtles",c=>c.Turtles())
                       .MapGet<AnimalsController>("/Bunnies",c=>c.Bunnies())
-                    .MapGet<AccountController>("/Cookies",c=>c.ActionWithCookies())
-                    .MapGet<AccountController>("/Sessions",c=>c.ActionWithSession())
-                      .MapGet<CatsController>("/Cats/Save",c=>c.Save())
+                    .MapGet<AccountController>("/Cookies",c=>c.CookiesCheck())
+                    .MapGet<AccountController>("/Sessions",c=>c.SessionCheck())
+                    .MapGet<AccountController>("/LogIn",c=>c.LogIn())
+                    .MapGet<AccountController>("/LogOut",c=>c.LogOut())
+                    .MapGet<AccountController>("/Authorized",c=>c.AuthenticationCheck())
+
+                      .MapPost<CatsController>("/Cats/Save", c=>c.Save())
                       .MapGet<CatsController>("/Cats/Create",c=>c.CreateCat()))
               .Start();
 

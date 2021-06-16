@@ -1,4 +1,5 @@
 ﻿using MyWebServer.Http;
+using MyWebServer.Identity;
 using MyWebServer.Results;
 using System;
 using System.Runtime.CompilerServices;
@@ -7,17 +8,42 @@ namespace MyWebServer
 {
    public abstract class Controller
     {
+        private const string UserSessionKey = "AuthenticatedUserId";
+
 
         public Controller(HttpRequest request)
         {
-
             this.Request = request;
-            this.Response = new HttpResponse(HttpStatusCode.Ok);
+
+            this.User = this.Request.Session.ContainsKey(UserSessionKey)
+                ? new UserIdentity() { Id = this.Request.Session[UserSessionKey] } 
+                : new();
+
+
+
         }
+            
+        
 
         protected HttpRequest Request { get; private init; }
 
-        protected HttpResponse Response { get; private init; }
+        protected HttpResponse Response { get; private init; } = new HttpResponse(HttpStatusCode.Ok);
+
+        protected UserIdentity User { get; private set; } 
+
+        protected void SignIn(string userId)
+        {
+            this.Request.Session[UserSessionKey] = userId;
+
+            this.User = new UserIdentity() { Id = userId };
+
+        }
+
+        protected void SignOut()
+        {
+            this.Request.Session.Remove(UserSessionKey);
+            this.User = new();
+        }
 
         protected ActionResult Text(string text)
             => new TextResult(this.Response,text);

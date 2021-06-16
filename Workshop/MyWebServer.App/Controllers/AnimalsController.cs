@@ -27,9 +27,9 @@ namespace MyWebServer.App.Controllers
             var query = this.Request.Query;
 
             var catName = 
-                query.ContainsKey(nameKey) ? query[nameKey] : "Cat";
+                query.Contains(nameKey) ? query[nameKey] : "Cat";
 
-            var catAge = query.ContainsKey(ageKey) ? int.Parse(query[ageKey]) : 0;
+            var catAge = query.Contains(ageKey) ? int.Parse(query[ageKey]) : 0;
 
 
             var catVM = new CatViewModel()
