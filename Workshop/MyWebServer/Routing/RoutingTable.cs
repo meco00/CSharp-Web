@@ -3,6 +3,7 @@ using MyWebServer.Http;
 using MyWebServer.Results;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -75,6 +76,33 @@ namespace MyWebServer.Routing
 
         }
 
-        
+        public IRoutingTable MapStaticFiles(string folder= Settings.StaticFilesPath)
+        {
+            var currentDirectory = Directory.GetCurrentDirectory();
+            var staticFilesFolder = Path.Combine(currentDirectory  , folder);
+            var staticFiles = Directory.GetFiles(
+                staticFilesFolder,
+                "*.*",SearchOption.AllDirectories);
+
+
+            foreach (var file in staticFiles)
+            {
+                var relativePath = Path.GetRelativePath(staticFilesFolder, file);
+
+                var urlPath = "/" + relativePath.Replace("\\", "/");
+
+                this.MapGet(urlPath, request =>
+                {
+                    var content = File.ReadAllBytes(file);
+                    var fileExtension = Path.GetExtension(file).Trim('.');
+                    var contentType = HttpContentType.GetByFileExtension(fileExtension);
+
+                    return new HttpResponse(HttpStatusCode.Ok)
+                        .SetContent(content, contentType);
+                });
+            }
+
+            return this;
+        }
     }
 }

@@ -60,3 +60,6 @@ D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer.App\bin\Debug\ne
 D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer.App\bin\Debug\net5.0\Views\Animals\Rabbit.cshtml
 D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer.App\bin\Debug\net5.0\Views\Cats\CreateCat.cshtml
 D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer.App\bin\Debug\net5.0\Views\Animals\Wild\Cats.cshtml
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer.App\bin\Debug\net5.0\Views\Home\StaticFiles.cshtml
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer.App\bin\Debug\net5.0\wwwroot\css\styles.css
+D:\Нова папка\softuni\Web\WebRepo\Workshop\MyWebServer.App\bin\Debug\net5.0\wwwroot\js\index.js

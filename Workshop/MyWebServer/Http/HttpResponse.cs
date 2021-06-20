@@ -84,7 +84,7 @@ namespace MyWebServer.Http
             {
             result.AppendLine();
 
-            //result.AppendLine(this.Content);
+           
             }
 
 
@@ -95,21 +95,8 @@ namespace MyWebServer.Http
 
         public static HttpResponse ForError(string message)
             => new HttpResponse(HttpStatusCode.InternalServerError)
-                .PrepareContent(message, HttpContentType.PlainText);
+                .SetContent(message, HttpContentType.PlainText);
 
-        protected HttpResponse PrepareContent(string content,string contentType)
-        {
-            Guard.AgainstNull(content, nameof(content));
-            Guard.AgainstNull(contentType, nameof(contentType));
-
-            var contentLength = Encoding.UTF8.GetByteCount(content).ToString();
-
-            this.Headers.Add(HttpHeader.ContentType,  contentType);
-            this.Headers.Add(HttpHeader.ContentLength, contentLength);
-
-            this.Content = Encoding.UTF8.GetBytes(content);
-
-            return this;
-        }
+      
     }
 }

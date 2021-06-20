@@ -13,6 +13,8 @@ namespace MyWebServer.Controllers
          where TController : Controller
          => routingTable.MapGet(path, request => controllerFunction(CreateController<TController>(request)));
 
+      
+
 
 
         public static IRoutingTable MapPost<TController>(

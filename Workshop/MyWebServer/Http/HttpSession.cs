@@ -16,11 +16,14 @@ namespace MyWebServer.Http
 
             this.Id = id;
 
+           
+
             this.data = new Dictionary<string, string>();
         }
 
         public string Id { get; init; }
 
+        public bool IsNew { get; set; }
 
         public string this[string key]
         {

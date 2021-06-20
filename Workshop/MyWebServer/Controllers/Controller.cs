@@ -1,4 +1,5 @@
-﻿using MyWebServer.Http;
+﻿using MyWebServer.Controllers;
+using MyWebServer.Http;
 using MyWebServer.Identity;
 using MyWebServer.Results;
 using System;
@@ -58,13 +59,12 @@ namespace MyWebServer
             => View(viewName, (object)null);
 
         protected ActionResult View( string viewName ,object model)
-           => new ViewResult(this.Response,viewName, GetControllerName(),model);
+           => new ViewResult(this.Response,viewName, this.GetType().GetControllerName(),model);
 
         protected ActionResult View(object model, [CallerMemberName] string viewName = "")
            => View(viewName, model);
 
-        private string GetControllerName()
-        => this.GetType().Name.Replace(nameof(Controller), string.Empty);
+       
 
     }
 }

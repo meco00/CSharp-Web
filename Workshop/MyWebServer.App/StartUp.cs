@@ -16,11 +16,13 @@ namespace MyWebServer.App
         public static async Task Main(string[] args)
         => await new HttpServer(9090,
             routes => routes
+                    .MapStaticFiles()
                     .MapGet<HomeController>("/", c=>c.Index())
                      .MapGet<HomeController>("/Softuni",c=>c.ToSoftUni())
                      .MapGet<HomeController>("/ToYoutube",c=>c.ToYoutube())
                      .MapGet<HomeController>("/ToCats",c=>c.LocalRedirect())
                      .MapGet<HomeController>("/Error",c=>c.Error())
+                     .MapGet<HomeController>("/StaticFiles",c=>c.StaticFiles())
                       .MapGet<AnimalsController>("/Cats", c=>c.Cats())
                       .MapGet<AnimalsController>("/Dogs",c=>c.Dogs())
                       .MapGet<AnimalsController>("/Turtles",c=>c.Turtles())

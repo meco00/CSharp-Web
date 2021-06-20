@@ -27,5 +27,8 @@ namespace MyWebServer.App.Controllers
 
         public HttpResponse Error()
             => throw new InvalidOperationException();
+
+        public ActionResult StaticFiles()
+            => View();
     }
 }

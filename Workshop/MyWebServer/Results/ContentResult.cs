@@ -15,7 +15,7 @@ namespace MyWebServer.Results
             ,string content
             , string contentType)
            : base(response)
-            => this.PrepareContent(content, contentType);
+            => this.SetContent(content, contentType);
         
             
 

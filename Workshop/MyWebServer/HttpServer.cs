@@ -138,8 +138,15 @@ namespace MyWebServer
         }
 
 
-        private void PrepareSessions(HttpRequest request,HttpResponse response)
-        => response.Cookies.Add(HttpSession.SessionCookieName, request.Session.Id);
+        private void PrepareSessions(HttpRequest request, HttpResponse response)
+        {
+            if (request.Session.IsNew)
+            {
+            response.Cookies.Add(HttpSession.SessionCookieName, request.Session.Id);
+                request.Session.IsNew = false;
+            }
+
+        }
         
         private async Task HandleError(NetworkStream networkStream, Exception exception)
         {

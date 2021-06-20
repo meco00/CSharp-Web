@@ -11,15 +11,20 @@
 
   <ItemGroup>
     <Content Include="Views\**\*.*">
-      <CopyToOutputDirectory>Preserver Newest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    
+    <Content Include="wwwroot\**\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
-
+  
   <ItemGroup>
     <None Remove="Views\Animals\Turtles.cshtml" />
     <None Remove="Views\Animals\Wild\Cats.cshtml" />
     <None Remove="Views\Animals\Wild\Rabbit.cshtml" />
     <None Remove="Views\Cats\CreateCat.cshtml" />
+    <None Remove="Views\Home\StaticFiles.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
@@ -36,6 +41,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Update="Views\Cats\CreateCat.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="Views\Home\StaticFiles.cshtml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
