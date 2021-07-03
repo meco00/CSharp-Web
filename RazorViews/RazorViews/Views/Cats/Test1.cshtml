@@ -1,0 +1,13 @@
+﻿@model List<CatViewModel>
+
+<h1>
+    All Cats
+</h1>
+
+@foreach (var cat in Model)
+{
+    <partial name="_Cat" model="cat"/>
+}
+
+<vc:custom-component name="Ivaylo"></vc:custom-component>
+

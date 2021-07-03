@@ -1,0 +1,47 @@
+﻿@using RazorViews.Services
+
+@model List<CatViewModel>
+
+@inject ICustomViewData customViewData
+
+@{ 
+    ViewData["Name"] = "Ivaylo";
+}
+
+@section  Styles 
+{ 
+<link href="~/css/cats.css" rel="stylesheet"/>
+}
+<h1>
+    All cats: - @(Model.Count*10)
+   
+    <br/>
+
+    @(Model.Any() ? Model.Count : "No cats")
+
+
+</h1>
+
+@customViewData.GetViewData()
+
+<br />
+
+
+<a asp-controller="Cats" asp-action="Create">Create Cat</a>
+<ul class="cats">
+    @foreach (var item in (List<CatViewModel>)ViewBag.Cats)
+    {
+        @: @item.Name - @item.Age
+    }
+</ul>
+
+@ViewData["Name"]
+
+@section Scripts
+{ 
+<script>
+    document.getElementsByClassName('cats')[0].innerHTML = '<li>Changed by the Power Of JS </li>';
+</script>
+}
+
+
